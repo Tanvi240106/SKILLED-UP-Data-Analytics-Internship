@@ -1,0 +1,32 @@
+SHOW DATABASES;
+CREATE DATABASE Company;
+
+USE Company;
+
+CREATE TABLE EMPLOYEE (
+    Fname VARCHAR(15) NOT NULL,
+    Minit CHAR,
+    Lname VARCHAR(15) NOT NULL,
+    Ssn CHAR(9) NOT NULL,
+    Bdate DATE,
+    Address VARCHAR(30),
+    Sex CHAR,
+    Salary DECIMAL(10,2),
+    Super_ssn CHAR(9),
+    Dno INT NOT NULL,
+    PRIMARY KEY (Ssn)
+);
+
+CREATE TABLE DEPARTMENT (
+    Dname VARCHAR(15) NOT NULL,
+    Dnumber INT NOT NULL,
+    Mgr_ssn CHAR(9) NOT NULL,
+    Mgr_start_date DATE,
+    PRIMARY KEY (Dnumber),
+    UNIQUE (Dname)
+);
+
+SHOW TABLES;
+
+DESCRIBE EMPLOYEE;
+DESCRIBE DEPARTMENT;

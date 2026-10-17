@@ -1,0 +1,1001 @@
+Patient_ID,Age,AgeGroup,Gender,Admission_Date,Discharge_Date,LOS,Disease,Treatment_Given,Doctor_Name,Department,Bed_Occupancy,Hospital_Costs,Outcome
+P00001,51,35-54,Female,2023-04-17,2023-04-21,4,Hypertension,Bp Control,Dr. Amit Sharma,Cardiology,273,23536.0,Recovered
+P00002,87,75+,Female,2024-01-21,2024-01-23,2,Uti,Antibiotics,Dr. Anita Joshi,Urology,146,8319.0,Recovered
+P00003,41,35-54,Male,2024-11-30,2024-12-04,4,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,257,23743.0,Recovered
+P00004,38,35-54,Male,2024-08-23,2024-08-27,4,Hypertension,Bp Control,Dr. Kumar Das,Cardiology,249,23472.0,Recovered
+P00005,77,75+,Male,2024-07-15,2024-07-19,4,Diabetes Complication,Insulin Adjustment,Dr. Amit Sharma,Endocrinology,263,10440.0,Recovered
+P00006,71,55-74,Female,2023-09-09,2023-09-10,1,Covid-19,Antivirals,Dr. Anita Joshi,Infectious Diseases,296,4431.0,Recovered
+P00007,59,55-74,Female,2023-02-10,2023-02-12,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Anita Joshi,Critical Care,156,48307.0,Recovered
+P00008,80,75+,Female,2024-02-23,2024-02-26,3,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,159,13649.0,Recovered
+P00009,22,18-34,Female,2023-04-09,2023-04-16,7,Diabetes Complication,Insulin Adjustment,Dr. Sanjay Desai,Endocrinology,240,15518.0,Recovered
+P00010,95,75+,Female,2024-07-17,2024-07-21,4,Asthma,Steroids,Dr. Amit Sharma,Pulmonology,258,14804.0,Recovered
+P00011,27,18-34,Female,2024-07-10,2024-07-12,2,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,307,13896.0,Recovered
+P00012,91,75+,Male,2023-07-09,2023-07-11,2,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,90,13672.0,Recovered
+P00013,50,35-54,Male,2024-10-25,2024-11-01,7,Fracture,Casting,Dr. Neha Gupta,Orthopedics,185,25404.0,Recovered
+P00014,1,0-17,Female,2024-07-19,2024-07-20,1,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,270,5687.0,Recovered
+P00015,69,55-74,Male,2024-03-14,2024-03-20,6,Appendicitis,Antibiotics,Dr. Meera Rao,General Surgery,220,31961.0,Recovered
+P00016,92,75+,Female,2024-02-07,2024-02-11,4,Uti,Antibiotics,Dr. Sanjay Desai,Urology,324,14232.0,Recovered
+P00017,56,55-74,Male,2023-05-31,2023-06-03,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,147,38059.0,Transferred
+P00018,11,0-17,Female,2023-06-09,2023-06-17,8,Covid-19,Steroids,Dr. Meera Rao,Infectious Diseases,263,22623.0,Recovered
+P00019,88,75+,Female,2023-12-04,2023-12-08,4,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,222,23444.0,Recovered
+P00020,66,55-74,Female,2023-02-02,2023-02-08,6,Fracture,Physiotherapy,Dr. Vikram Singh,Orthopedics,133,22277.0,Recovered
+P00021,63,55-74,Female,2024-10-20,2024-10-24,4,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,269,14753.0,Deceased
+P00022,92,75+,Male,2023-06-30,2023-07-03,3,Uti,Antibiotics,Dr. Anita Joshi,Urology,243,10526.0,Recovered
+P00023,94,75+,Female,2023-11-19,2023-11-23,4,Covid-19,Oxygen Therapy,Dr. Kumar Das,Infectious Diseases,271,12480.0,Recovered
+P00024,42,35-54,Female,2023-02-08,2023-02-17,9,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,231,47779.0,Recovered
+P00025,65,55-74,Male,2023-02-20,2023-02-24,4,Appendicitis,Antibiotics,Dr. Rohit Iyer,General Surgery,221,23044.0,Recovered
+P00026,96,75+,Female,2024-07-25,2024-07-27,2,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,393,14921.0,Recovered
+P00027,51,35-54,Male,2024-01-05,2024-01-09,4,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,280,14932.0,Recovered
+P00028,57,55-74,Female,2023-04-06,2023-04-13,7,Fracture,Surgery,Dr. Sanjay Desai,Orthopedics,206,25261.0,Recovered
+P00029,56,55-74,Male,2023-08-08,2023-08-09,1,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,235,4936.0,Recovered
+P00030,47,35-54,Female,2024-09-03,2024-09-07,4,Fracture,Physiotherapy,Dr. Amit Sharma,Orthopedics,336,15583.0,Recovered
+P00031,0,0-17,Female,2024-05-30,2024-06-07,8,Pneumonia,Antibiotics,Dr. Riya Patel,Pulmonology,276,27068.0,Recovered
+P00032,39,35-54,Female,2024-07-09,2024-07-12,3,Appendicitis,Antibiotics,Unknown,General Surgery,323,17355.0,Recovered
+P00033,73,55-74,Male,2024-02-22,2024-02-27,5,Covid-19,Antivirals,Dr. Kumar Das,Infectious Diseases,253,14947.0,Recovered
+P00034,23,18-34,Female,2024-11-19,2024-11-22,3,Appendicitis,Appendectomy,Dr. Priya Khan,General Surgery,157,18181.0,Recovered
+P00035,22,18-34,Female,2023-09-30,2023-10-04,4,Diabetes Complication,Monitoring,Dr. Sanjay Desai,Endocrinology,273,9938.0,Recovered
+P00036,51,35-54,Female,2024-01-02,2024-01-03,1,Uti,Antibiotics,Dr. Anita Joshi,Urology,163,5934.0,Recovered
+P00037,15,0-17,Female,2023-04-19,2023-04-25,6,Sepsis,Icu Support,Dr. Kumar Das,Critical Care,303,68248.0,Recovered
+P00038,6,0-17,Male,2023-06-17,2023-06-20,3,Diabetes Complication,Monitoring,Dr. Riya Patel,Endocrinology,319,7762.0,Recovered
+P00039,88,75+,Female,2023-03-11,2023-03-16,5,Fracture,Surgery,Dr. Rohit Iyer,Orthopedics,215,18755.0,Recovered
+P00040,19,18-34,Male,2023-12-27,2024-01-01,5,Stroke,Thrombolysis,Unknown,Neurology,331,28057.0,Transferred
+P00041,44,35-54,Male,2023-05-29,2023-06-01,3,Covid-19,Antivirals,Dr. Priya Khan,Infectious Diseases,207,9217.0,Transferred
+P00042,53,35-54,Female,2024-10-17,2024-10-21,4,Hypertension,Monitoring,Dr. Meera Rao,Cardiology,190,23755.0,Recovered
+P00043,7,0-17,Male,2023-06-27,2023-06-30,3,Covid-19,Oxygen Therapy,Dr. Vikram Singh,Infectious Diseases,211,8900.0,Recovered
+P00044,28,18-34,Male,2024-06-30,2024-07-12,12,Asthma,Steroids,Dr. Rohit Iyer,Pulmonology,243,39263.0,Transferred
+P00045,10,0-17,Female,2023-03-04,2023-03-07,3,Uti,Antibiotics,Dr. Neha Gupta,Urology,263,11158.0,Recovered
+P00046,4,0-17,Other,2024-03-12,2024-03-17,5,Hypertension,Monitoring,Dr. Amit Sharma,Cardiology,197,28665.0,Recovered
+P00047,31,18-34,Male,2023-04-05,2023-04-09,4,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,373,13077.0,Recovered
+P00048,56,55-74,Female,2023-10-30,2023-11-09,10,Heart Failure,Ace Inhibitors,Dr. Amit Sharma,Cardiology,128,54980.0,Recovered
+P00049,29,18-34,Female,2024-07-16,2024-07-21,5,Uti,Antibiotics,Dr. Rohit Iyer,Urology,158,17602.0,Recovered
+P00050,42,35-54,Male,2023-04-21,2023-04-22,1,Covid-19,Steroids,Dr. Meera Rao,Infectious Diseases,271,4231.0,Recovered
+P00051,55,55-74,Male,2023-07-14,2023-07-20,6,Hypertension,Bp Control,Dr. Sanjay Desai,Cardiology,350,35190.0,Recovered
+P00052,45,35-54,Male,2023-03-19,2023-03-21,2,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,257,14486.0,Recovered
+P00053,47,35-54,Male,2023-01-26,2023-02-01,6,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,356,68126.0,Recovered
+P00054,58,55-74,Male,2023-01-07,2023-01-10,3,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,179,17171.0,Recovered
+P00055,27,18-34,Male,2023-09-30,2023-10-02,2,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,351,7640.0,Recovered
+P00056,17,0-17,Male,2023-04-21,2023-04-26,5,Fracture,Surgery,Dr. Anita Joshi,Orthopedics,165,19797.0,Recovered
+P00057,69,55-74,Female,2023-10-16,2023-10-17,1,Asthma,Bronchodilators,Unknown,Pulmonology,210,5257.0,Recovered
+P00058,61,55-74,Female,2024-10-25,2024-10-28,3,Stroke,Thrombolysis,Dr. Anita Joshi,Neurology,235,18147.0,Deceased
+P00059,3,0-17,Male,2023-04-28,2023-05-02,4,Heart Failure,Diuretics,Dr. Priya Khan,Cardiology,305,23620.0,Recovered
+P00060,67,55-74,Male,2023-08-13,2023-08-18,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Kumar Das,Critical Care,302,57158.0,Recovered
+P00061,9,0-17,Female,2024-10-11,2024-10-18,7,Sepsis,Icu Support,Dr. Rohit Iyer,Critical Care,284,77899.0,Recovered
+P00062,49,35-54,Male,2024-01-11,2024-01-16,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,281,58348.0,Recovered
+P00063,34,18-34,Male,2023-01-05,2023-01-10,5,Diabetes Complication,Monitoring,Dr. Sanjay Desai,Endocrinology,283,12147.0,Recovered
+P00064,96,75+,Female,2023-05-23,2023-05-27,4,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,112,48716.0,Recovered
+P00065,50,35-54,Male,2024-03-23,2024-03-30,7,Fracture,Surgery,Dr. Vikram Singh,Orthopedics,228,25688.0,Recovered
+P00066,4,0-17,Female,2023-04-28,2023-05-01,3,Appendicitis,Appendectomy,Dr. Kumar Das,General Surgery,223,18188.0,Recovered
+P00067,75,75+,Female,2024-02-15,2024-02-20,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Kumar Das,Critical Care,143,58748.0,Recovered
+P00068,45,35-54,Female,2023-08-06,2023-08-09,3,Fracture,Surgery,Dr. Vikram Singh,Orthopedics,256,13462.0,Recovered
+P00069,36,35-54,Female,2023-04-16,2023-04-19,3,Hypertension,Bp Control,Unknown,Cardiology,230,18765.0,Recovered
+P00070,35,35-54,Male,2023-01-01,2023-01-05,4,Covid-19,Antivirals,Unknown,Infectious Diseases,189,11373.0,Recovered
+P00071,74,55-74,Female,2023-07-29,2023-08-01,3,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,278,8936.0,Recovered
+P00072,87,75+,Male,2023-10-12,2023-10-14,2,Uti,Hydration,Dr. Rohit Iyer,Urology,233,8047.0,Recovered
+P00073,60,55-74,Male,2023-11-23,2023-11-26,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Kumar Das,Critical Care,215,37727.0,Recovered
+P00074,29,18-34,Female,2023-01-19,2023-01-22,3,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,324,10464.0,Recovered
+P00075,0,0-17,Male,2023-02-24,2023-03-01,5,Stroke,Rehabilitation,Unknown,Neurology,306,28835.0,Recovered
+P00076,66,55-74,Male,2024-03-18,2024-03-25,7,Covid-19,Antivirals,Dr. Neha Gupta,Infectious Diseases,324,19910.0,Deceased
+P00077,36,35-54,Male,2023-01-07,2023-01-14,7,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,310,35747.0,Recovered
+P00078,11,0-17,Female,2023-09-13,2023-09-18,5,Stroke,Thrombolysis,Dr. Neha Gupta,Neurology,308,28185.0,Recovered
+P00079,80,75+,Female,2023-07-28,2023-08-01,4,Pneumonia,Oxygen Therapy,Dr. Amit Sharma,Pulmonology,251,14673.0,Recovered
+P00080,86,75+,Female,2023-05-26,2023-05-29,3,Covid-19,Antivirals,Dr. Rohit Iyer,Infectious Diseases,358,9690.0,Recovered
+P00081,85,75+,Male,2023-10-14,2023-10-20,6,Fracture,Physiotherapy,Dr. Sanjay Desai,Orthopedics,212,22713.0,Recovered
+P00082,64,55-74,Male,2023-10-19,2023-10-23,4,Heart Failure,Ace Inhibitors,Dr. Priya Khan,Cardiology,282,24066.0,Recovered
+P00083,23,18-34,Female,2023-03-10,2023-03-13,3,Uti,Hydration,Dr. Anita Joshi,Urology,272,10876.0,Recovered
+P00084,72,55-74,Male,2023-01-17,2023-01-21,4,Covid-19,Oxygen Therapy,Dr. Anita Joshi,Infectious Diseases,309,11903.0,Deceased
+P00085,16,0-17,Female,2024-05-11,2024-05-19,8,Covid-19,Antivirals,Dr. Anita Joshi,Infectious Diseases,275,22303.0,Recovered
+P00086,84,75+,Male,2024-01-26,2024-01-28,2,Pneumonia,Antibiotics,Dr. Anita Joshi,Pulmonology,317,8460.0,Recovered
+P00087,17,0-17,Female,2024-09-06,2024-09-08,2,Heart Failure,Ace Inhibitors,Dr. Priya Khan,Cardiology,263,13761.0,Recovered
+P00088,54,35-54,Male,2023-02-08,2023-02-14,6,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,292,33023.0,Recovered
+P00089,38,35-54,Male,2023-01-29,2023-02-06,8,Pneumonia,Antibiotics,Dr. Vikram Singh,Pulmonology,224,26360.0,Recovered
+P00090,29,18-34,Female,2023-05-26,2023-06-14,19,Pneumonia,Oxygen Therapy,Dr. Kumar Das,Pulmonology,192,59363.0,Deceased
+P00091,36,35-54,Female,2024-01-15,2024-01-20,5,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,320,29010.0,Recovered
+P00092,73,55-74,Male,2023-08-06,2023-08-10,4,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,400,48234.0,Recovered
+P00093,34,18-34,Female,2023-03-03,2023-03-08,5,Fracture,Casting,Dr. Rohit Iyer,Orthopedics,242,20062.0,Recovered
+P00094,91,75+,Male,2023-07-14,2023-07-20,6,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,303,20025.0,Recovered
+P00095,69,55-74,Other,2024-11-18,2024-11-22,4,Pneumonia,Physiotherapy,Dr. Amit Sharma,Pulmonology,220,15022.0,Recovered
+P00096,90,75+,Female,2023-10-16,2023-10-27,11,Pneumonia,Antibiotics,Dr. Kumar Das,Pulmonology,239,35573.0,Recovered
+P00097,29,18-34,Female,2023-03-23,2023-03-26,3,Stroke,Thrombolysis,Dr. Riya Patel,Neurology,261,18623.0,Recovered
+P00098,94,75+,Male,2024-03-23,2024-03-28,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Priya Khan,Critical Care,286,58093.0,Recovered
+P00099,67,55-74,Male,2024-04-28,2024-04-30,2,Covid-19,Steroids,Dr. Vikram Singh,Infectious Diseases,141,7682.0,Recovered
+P00100,81,75+,Female,2024-12-04,2024-12-09,5,Hypertension,Bp Control,Dr. Vikram Singh,Cardiology,318,28772.0,Recovered
+P00101,86,75+,Male,2024-03-05,2024-03-10,5,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,277,14988.0,Recovered
+P00102,74,55-74,Male,2024-01-17,2024-01-21,4,Asthma,Bronchodilators,Dr. Meera Rao,Pulmonology,303,14397.0,Recovered
+P00103,60,55-74,Male,2024-06-07,2024-06-11,4,Covid-19,Oxygen Therapy,Dr. Kumar Das,Infectious Diseases,240,11607.0,Recovered
+P00104,70,55-74,Female,2024-11-23,2024-11-27,4,Asthma,Steroids,Dr. Kumar Das,Pulmonology,164,14803.0,Recovered
+P00105,47,35-54,Female,2024-12-26,2025-01-21,26,Fracture,Physiotherapy,Dr. Amit Sharma,Orthopedics,193,87509.0,Transferred
+P00106,37,35-54,Male,2023-10-28,2023-11-03,6,Fracture,Casting,Dr. Vikram Singh,Orthopedics,249,22509.0,Recovered
+P00107,32,18-34,Female,2023-08-30,2023-09-01,2,Heart Failure,Monitoring,Unknown,Cardiology,189,13860.0,Recovered
+P00108,45,35-54,Female,2023-05-23,2023-05-25,2,Stroke,Rehabilitation,Dr. Vikram Singh,Neurology,358,13978.0,Recovered
+P00109,49,35-54,Female,2023-03-25,2023-03-29,4,Pneumonia,Oxygen Therapy,Dr. Meera Rao,Pulmonology,374,14156.0,Recovered
+P00110,13,0-17,Male,2023-01-12,2023-01-15,3,Asthma,Bronchodilators,Dr. Vikram Singh,Pulmonology,188,11236.0,Recovered
+P00111,54,35-54,Male,2024-08-16,2024-08-17,1,Sepsis,Broad-Spectrum Antibiotics,Dr. Rohit Iyer,Critical Care,220,19547.0,Recovered
+P00112,34,18-34,Male,2023-07-26,2023-08-01,6,Uti,Antibiotics,Unknown,Urology,263,20323.0,Recovered
+P00113,97,75+,Female,2024-07-31,2024-08-06,6,Covid-19,Antivirals,Dr. Riya Patel,Infectious Diseases,220,17511.0,Recovered
+P00114,99,75+,Female,2024-08-21,2024-08-25,4,Uti,Antibiotics,Dr. Sanjay Desai,Urology,238,13777.0,Recovered
+P00115,88,75+,Female,2023-05-25,2023-05-30,5,Sepsis,Icu Support,Unknown,Critical Care,247,58238.0,Recovered
+P00116,66,55-74,Male,2024-08-14,2024-08-18,4,Hypertension,Bp Control,Dr. Anita Joshi,Cardiology,199,24260.0,Recovered
+P00117,36,35-54,Male,2023-07-23,2023-07-29,6,Uti,Antibiotics,Dr. Sanjay Desai,Urology,252,19457.0,Recovered
+P00118,28,18-34,Female,2023-02-04,2023-02-08,4,Uti,Antibiotics,Dr. Neha Gupta,Urology,304,14373.0,Recovered
+P00119,42,35-54,Female,2024-03-03,2024-03-05,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Kumar Das,Critical Care,253,28060.0,Recovered
+P00120,84,75+,Male,2024-10-30,2024-11-06,7,Uti,Antibiotics,Dr. Amit Sharma,Urology,262,23125.0,Recovered
+P00121,71,55-74,Female,2023-01-01,2023-01-05,4,Fracture,Physiotherapy,Dr. Kumar Das,Orthopedics,246,16464.0,Recovered
+P00122,72,55-74,Male,2023-06-08,2023-06-16,8,Sepsis,Icu Support,Dr. Kumar Das,Critical Care,257,87486.0,Recovered
+P00123,14,0-17,Female,2024-12-11,2024-12-31,20,Pneumonia,Antibiotics,Dr. Neha Gupta,Pulmonology,348,63004.0,Recovered
+P00124,45,35-54,Female,2023-03-26,2023-03-29,3,Uti,Antibiotics,Unknown,Urology,166,10578.0,Recovered
+P00125,43,35-54,Male,2023-02-12,2023-02-16,4,Appendicitis,Appendectomy,Dr. Kumar Das,General Surgery,234,22696.0,Recovered
+P00126,14,0-17,Male,2023-05-21,2023-05-23,2,Heart Failure,Monitoring,Dr. Sanjay Desai,Cardiology,190,13449.0,Recovered
+P00127,34,18-34,Female,2023-04-16,2023-04-20,4,Sepsis,Icu Support,Dr. Anita Joshi,Critical Care,191,48275.0,Recovered
+P00128,70,55-74,Male,2023-08-29,2023-09-04,6,Pneumonia,Antibiotics,Dr. Vikram Singh,Pulmonology,257,20771.0,Recovered
+P00129,85,75+,Female,2023-01-26,2023-01-31,5,Heart Failure,Monitoring,Dr. Riya Patel,Cardiology,206,29447.0,Recovered
+P00130,59,55-74,Female,2023-05-26,2023-05-29,3,Appendicitis,Appendectomy,Dr. Neha Gupta,General Surgery,245,18546.0,Recovered
+P00131,21,18-34,Male,2024-10-16,2024-10-19,3,Heart Failure,Diuretics,Dr. Meera Rao,Cardiology,290,18226.0,Recovered
+P00132,41,35-54,Male,2023-06-16,2023-06-17,1,Appendicitis,Appendectomy,Dr. Riya Patel,General Surgery,273,9602.0,Recovered
+P00133,31,18-34,Male,2023-02-05,2023-02-07,2,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,211,9289.0,Recovered
+P00134,48,35-54,Female,2024-05-31,2024-06-02,2,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,184,14366.0,Recovered
+P00135,85,75+,Female,2024-12-27,2025-01-01,5,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,256,58188.0,Recovered
+P00136,54,35-54,Female,2024-03-21,2024-03-23,2,Heart Failure,Diuretics,Dr. Priya Khan,Cardiology,248,14191.0,Recovered
+P00137,22,18-34,Male,2023-04-14,2023-04-15,1,Heart Failure,Ace Inhibitors,Dr. Amit Sharma,Cardiology,296,8423.0,Recovered
+P00138,21,18-34,Male,2023-06-10,2023-06-13,3,Heart Failure,Monitoring,Dr. Amit Sharma,Cardiology,209,18413.0,Recovered
+P00139,1,0-17,Female,2024-03-24,2024-03-28,4,Diabetes Complication,Insulin Adjustment,Unknown,Endocrinology,265,10000.0,Recovered
+P00140,11,0-17,Female,2023-02-11,2023-02-16,5,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,217,29490.0,Recovered
+P00141,90,75+,Female,2024-04-10,2024-04-17,7,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,219,16465.0,Deceased
+P00142,5,0-17,Male,2023-04-27,2023-04-30,3,Fracture,Surgery,Dr. Sanjay Desai,Orthopedics,225,13250.0,Recovered
+P00143,30,18-34,Female,2024-10-19,2024-10-27,8,Appendicitis,Antibiotics,Dr. Anita Joshi,General Surgery,192,40708.0,Recovered
+P00144,82,75+,Male,2023-12-11,2023-12-13,2,Fracture,Surgery,Dr. Rohit Iyer,Orthopedics,213,9749.0,Recovered
+P00145,96,75+,Female,2024-09-06,2024-09-08,2,Diabetes Complication,Monitoring,Unknown,Endocrinology,307,6212.0,Recovered
+P00146,62,55-74,Male,2024-04-27,2024-05-02,5,Covid-19,Oxygen Therapy,Dr. Riya Patel,Infectious Diseases,226,14693.0,Recovered
+P00147,9,0-17,Female,2024-02-27,2024-03-03,5,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,166,28619.0,Recovered
+P00148,20,18-34,Female,2023-07-02,2023-07-04,2,Appendicitis,Appendectomy,Dr. Neha Gupta,General Surgery,315,13766.0,Recovered
+P00149,28,18-34,Male,2023-01-21,2023-01-23,2,Uti,Antibiotics,Dr. Kumar Das,Urology,238,8411.0,Recovered
+P00150,59,55-74,Female,2023-10-11,2023-10-16,5,Uti,Antibiotics,Dr. Neha Gupta,Urology,277,16662.0,Recovered
+P00151,7,0-17,Male,2024-05-19,2024-05-23,4,Asthma,Steroids,Dr. Riya Patel,Pulmonology,203,13365.0,Transferred
+P00152,51,35-54,Female,2024-01-26,2024-01-31,5,Appendicitis,Antibiotics,Dr. Meera Rao,General Surgery,251,26577.0,Recovered
+P00153,7,0-17,Female,2023-11-25,2023-11-27,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,288,28612.0,Recovered
+P00154,61,55-74,Female,2023-05-29,2023-06-02,4,Asthma,Bronchodilators,Dr. Kumar Das,Pulmonology,252,8914.0,Recovered
+P00155,97,75+,Male,2023-09-30,2023-10-04,4,Pneumonia,Physiotherapy,Dr. Neha Gupta,Pulmonology,236,14362.0,Recovered
+P00156,20,18-34,Male,2024-06-27,2024-07-02,5,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,272,18299.0,Recovered
+P00157,95,75+,Male,2024-08-20,2024-08-24,4,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,178,23981.0,Recovered
+P00158,21,18-34,Female,2024-12-01,2024-12-04,3,Diabetes Complication,Insulin Adjustment,Dr. Amit Sharma,Endocrinology,310,8102.0,Recovered
+P00159,7,0-17,Male,2024-10-17,2024-10-23,6,Asthma,Steroids,Dr. Neha Gupta,Pulmonology,295,20791.0,Recovered
+P00160,65,55-74,Male,2023-01-13,2023-01-18,5,Uti,Hydration,Unknown,Urology,296,17561.0,Recovered
+P00161,94,75+,Male,2023-07-30,2023-08-06,7,Appendicitis,Antibiotics,Dr. Meera Rao,General Surgery,319,35714.0,Recovered
+P00162,70,55-74,Female,2024-06-09,2024-06-11,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Rohit Iyer,Critical Care,248,27667.0,Recovered
+P00163,18,18-34,Male,2023-03-01,2023-03-05,4,Diabetes Complication,Monitoring,Dr. Priya Khan,Endocrinology,283,9754.0,Recovered
+P00164,44,35-54,Male,2023-07-02,2023-07-05,3,Asthma,Steroids,Dr. Vikram Singh,Pulmonology,296,11941.0,Recovered
+P00165,32,18-34,Male,2023-09-17,2023-09-24,7,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,293,78837.0,Recovered
+P00166,69,55-74,Female,2024-07-16,2024-07-21,5,Uti,Antibiotics,Dr. Neha Gupta,Urology,179,15564.0,Recovered
+P00167,3,0-17,Male,2023-10-22,2023-10-27,5,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,295,18113.0,Deceased
+P00168,29,18-34,Male,2024-09-09,2024-09-11,2,Stroke,Rehabilitation,Dr. Rohit Iyer,Neurology,199,13339.0,Recovered
+P00169,88,75+,Female,2024-07-09,2024-07-11,2,Sepsis,Icu Support,Dr. Priya Khan,Critical Care,133,28391.0,Recovered
+P00170,90,75+,Male,2024-09-30,2024-10-03,3,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,319,18812.0,Recovered
+P00171,13,0-17,Female,2023-11-10,2023-11-14,4,Sepsis,Icu Support,Dr. Vikram Singh,Critical Care,213,48814.0,Recovered
+P00172,85,75+,Female,2024-08-15,2024-08-21,6,Fracture,Physiotherapy,Dr. Meera Rao,Orthopedics,235,23275.0,Recovered
+P00173,21,18-34,Female,2023-03-07,2023-03-11,4,Fracture,Surgery,Dr. Sanjay Desai,Orthopedics,231,15893.0,Transferred
+P00174,62,55-74,Female,2023-02-01,2023-02-03,2,Pneumonia,Antibiotics,Dr. Anita Joshi,Pulmonology,163,8547.0,Recovered
+P00175,85,75+,Male,2024-01-16,2024-01-19,3,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,302,18562.0,Recovered
+P00176,98,75+,Male,2024-03-11,2024-03-13,2,Diabetes Complication,Insulin Adjustment,Dr. Vikram Singh,Endocrinology,218,5744.0,Recovered
+P00177,91,75+,Female,2024-04-29,2024-05-04,5,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,211,28714.0,Recovered
+P00178,2,0-17,Female,2023-02-09,2023-02-11,2,Heart Failure,Monitoring,Dr. Amit Sharma,Cardiology,296,14283.0,Recovered
+P00179,93,75+,Female,2024-06-27,2024-07-01,4,Covid-19,Oxygen Therapy,Unknown,Infectious Diseases,194,12786.0,Transferred
+P00180,94,75+,Female,2024-10-01,2024-10-02,1,Heart Failure,Monitoring,Dr. Rohit Iyer,Cardiology,218,8372.0,Transferred
+P00181,91,75+,Female,2024-01-07,2024-01-13,6,Stroke,Thrombolysis,Dr. Anita Joshi,Neurology,258,33056.0,Recovered
+P00182,20,18-34,Male,2023-08-06,2023-08-08,2,Fracture,Surgery,Unknown,Orthopedics,346,9739.0,Recovered
+P00183,47,35-54,Female,2023-09-30,2023-10-06,6,Heart Failure,Ace Inhibitors,Dr. Rohit Iyer,Cardiology,225,34262.0,Recovered
+P00184,86,75+,Male,2024-08-01,2024-08-05,4,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,280,48089.0,Recovered
+P00185,38,35-54,Female,2023-07-26,2023-07-30,4,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,316,14440.0,Recovered
+P00186,34,18-34,Male,2024-05-21,2024-05-22,1,Stroke,Thrombolysis,Dr. Priya Khan,Neurology,236,9210.0,Recovered
+P00187,82,75+,Other,2024-03-01,2024-03-10,9,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,242,23288.5,Recovered
+P00188,32,18-34,Male,2023-03-30,2023-04-01,2,Hypertension,Monitoring,Dr. Rohit Iyer,Cardiology,210,14074.0,Recovered
+P00189,1,0-17,Female,2024-09-13,2024-09-19,6,Stroke,Thrombolysis,Dr. Kumar Das,Neurology,271,33696.0,Recovered
+P00190,47,35-54,Female,2024-11-14,2024-11-15,1,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,308,9250.0,Recovered
+P00191,64,55-74,Male,2023-12-09,2023-12-15,6,Fracture,Casting,Dr. Amit Sharma,Orthopedics,323,23574.0,Recovered
+P00192,3,0-17,Female,2023-12-14,2023-12-17,3,Appendicitis,Appendectomy,Dr. Sanjay Desai,General Surgery,338,18305.0,Recovered
+P00193,86,75+,Male,2023-08-02,2023-08-05,3,Heart Failure,Diuretics,Dr. Vikram Singh,Cardiology,236,17967.0,Recovered
+P00194,34,18-34,Male,2024-11-19,2024-12-02,13,Heart Failure,Monitoring,Dr. Rohit Iyer,Cardiology,315,68712.0,Recovered
+P00195,61,55-74,Male,2024-01-17,2024-02-07,21,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,246,54405.0,Recovered
+P00196,44,35-54,Male,2024-09-11,2024-09-17,6,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,291,31709.0,Recovered
+P00197,29,18-34,Male,2024-12-27,2024-12-29,2,Pneumonia,Antibiotics,Dr. Neha Gupta,Pulmonology,285,9042.0,Recovered
+P00198,27,18-34,Female,2023-04-23,2023-04-24,1,Diabetes Complication,Insulin Adjustment,Dr. Kumar Das,Endocrinology,260,4220.0,Recovered
+P00199,65,55-74,Female,2023-09-23,2023-09-25,2,Diabetes Complication,Monitoring,Dr. Amit Sharma,Endocrinology,277,5463.0,Recovered
+P00200,92,75+,Male,2023-12-16,2023-12-17,1,Appendicitis,Antibiotics,Dr. Vikram Singh,General Surgery,242,8060.0,Recovered
+P00201,89,75+,Female,2024-07-27,2024-08-03,7,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,310,15665.0,Recovered
+P00202,97,75+,Male,2023-07-14,2023-07-20,6,Fracture,Casting,Dr. Neha Gupta,Orthopedics,190,23441.0,Recovered
+P00203,36,35-54,Female,2024-02-25,2024-02-28,3,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,165,19206.0,Recovered
+P00204,10,0-17,Male,2024-07-29,2024-08-03,5,Appendicitis,Antibiotics,Dr. Priya Khan,General Surgery,221,26993.0,Recovered
+P00205,74,55-74,Male,2024-10-27,2024-10-28,1,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,234,9799.0,Recovered
+P00206,36,35-54,Female,2023-02-04,2023-02-11,7,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,178,78071.0,Recovered
+P00207,33,18-34,Male,2024-01-14,2024-01-19,5,Asthma,Bronchodilators,Dr. Vikram Singh,Pulmonology,288,17246.0,Recovered
+P00208,0,0-17,Female,2023-10-07,2023-10-12,5,Hypertension,Monitoring,Dr. Sanjay Desai,Cardiology,313,28683.0,Recovered
+P00209,84,75+,Male,2024-05-31,2024-06-07,7,Stroke,Thrombolysis,Dr. Riya Patel,Neurology,228,37940.0,Recovered
+P00210,19,18-34,Male,2024-06-07,2024-06-12,5,Uti,Hydration,Dr. Amit Sharma,Urology,445,16378.0,Recovered
+P00211,22,18-34,Male,2024-12-15,2024-12-22,7,Fracture,Casting,Dr. Amit Sharma,Orthopedics,259,25897.0,Recovered
+P00212,44,35-54,Male,2023-05-27,2023-05-29,2,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,293,13069.0,Recovered
+P00213,21,18-34,Female,2024-11-13,2024-11-21,8,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,242,17822.0,Recovered
+P00214,14,0-17,Male,2024-10-09,2024-10-14,5,Stroke,Thrombolysis,Dr. Anita Joshi,Neurology,240,27828.0,Recovered
+P00215,74,55-74,Male,2023-07-07,2023-07-09,2,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,273,8896.0,Recovered
+P00216,33,18-34,Female,2024-10-17,2024-10-21,4,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,154,23622.0,Recovered
+P00217,54,35-54,Female,2023-08-19,2023-08-24,5,Pneumonia,Antibiotics,Unknown,Pulmonology,68,17591.0,Recovered
+P00218,71,55-74,Female,2024-10-21,2024-10-28,7,Pneumonia,Physiotherapy,Dr. Sanjay Desai,Pulmonology,248,22616.0,Recovered
+P00219,81,75+,Female,2024-09-30,2024-10-24,24,Fracture,Surgery,Dr. Priya Khan,Orthopedics,307,79784.0,Recovered
+P00220,49,35-54,Male,2024-01-25,2024-01-28,3,Hypertension,Bp Control,Dr. Kumar Das,Cardiology,293,18756.0,Recovered
+P00221,99,75+,Female,2023-05-21,2023-05-25,4,Fracture,Casting,Dr. Kumar Das,Orthopedics,294,16355.0,Recovered
+P00222,54,35-54,Male,2023-01-23,2023-01-26,3,Appendicitis,Appendectomy,Dr. Meera Rao,General Surgery,273,18078.0,Recovered
+P00223,83,75+,Female,2024-10-13,2024-10-17,4,Asthma,Bronchodilators,Dr. Priya Khan,Pulmonology,267,14084.0,Recovered
+P00224,70,55-74,Female,2023-07-29,2023-08-06,8,Uti,Antibiotics,Dr. Kumar Das,Urology,290,25318.0,Recovered
+P00225,2,0-17,Male,2023-05-29,2023-06-01,3,Pneumonia,Oxygen Therapy,Dr. Kumar Das,Pulmonology,310,11758.0,Recovered
+P00226,52,35-54,Male,2023-02-22,2023-02-28,6,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,289,33863.0,Recovered
+P00227,28,18-34,Male,2024-01-13,2024-02-08,26,Fracture,Surgery,Dr. Kumar Das,Orthopedics,235,86796.0,Recovered
+P00228,95,75+,Male,2024-10-26,2024-10-30,4,Hypertension,Bp Control,Dr. Neha Gupta,Cardiology,259,24025.0,Recovered
+P00229,72,55-74,Female,2023-08-13,2023-08-16,3,Uti,Antibiotics,Dr. Kumar Das,Urology,268,11474.0,Recovered
+P00230,76,75+,Female,2024-04-15,2024-04-22,7,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,289,23067.0,Recovered
+P00231,56,55-74,Female,2024-01-29,2024-02-02,4,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,324,11551.0,Recovered
+P00232,30,18-34,Female,2023-08-30,2023-09-03,4,Sepsis,Icu Support,Dr. Amit Sharma,Critical Care,312,47608.0,Recovered
+P00233,20,18-34,Other,2024-01-25,2024-01-30,5,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,164,11867.0,Recovered
+P00234,32,18-34,Male,2023-11-27,2023-12-06,9,Diabetes Complication,Monitoring,Dr. Sanjay Desai,Endocrinology,371,19319.0,Recovered
+P00235,81,75+,Other,2023-09-17,2023-09-26,9,Heart Failure,Ace Inhibitors,Dr. Priya Khan,Cardiology,235,48228.0,Recovered
+P00236,83,75+,Female,2023-04-03,2023-04-13,10,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,303,106942.0,Recovered
+P00237,84,75+,Male,2023-11-18,2023-11-22,4,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,249,48307.0,Recovered
+P00238,70,55-74,Male,2024-02-08,2024-02-15,7,Diabetes Complication,Monitoring,Dr. Amit Sharma,Endocrinology,177,16365.0,Recovered
+P00239,19,18-34,Male,2023-09-23,2023-09-28,5,Fracture,Surgery,Dr. Kumar Das,Orthopedics,351,19237.0,Recovered
+P00240,20,18-34,Female,2023-10-09,2023-10-14,5,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,164,28306.0,Recovered
+P00241,18,18-34,Female,2024-07-11,2024-07-12,1,Asthma,Steroids,Dr. Amit Sharma,Pulmonology,250,5854.0,Recovered
+P00242,23,18-34,Female,2023-07-08,2023-07-14,6,Pneumonia,Oxygen Therapy,Dr. Amit Sharma,Pulmonology,239,20833.0,Recovered
+P00243,40,35-54,Male,2024-11-30,2024-12-03,3,Heart Failure,Ace Inhibitors,Dr. Rohit Iyer,Cardiology,188,18626.0,Recovered
+P00244,46,35-54,Male,2023-02-07,2023-02-14,7,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,228,35588.0,Transferred
+P00245,99,75+,Other,2024-05-18,2024-05-22,4,Uti,Hydration,Dr. Anita Joshi,Urology,145,14266.0,Recovered
+P00246,85,75+,Male,2024-07-13,2024-07-16,3,Pneumonia,Physiotherapy,Dr. Rohit Iyer,Pulmonology,111,11578.0,Recovered
+P00247,87,75+,Male,2023-04-06,2023-04-08,2,Covid-19,Antivirals,Unknown,Infectious Diseases,224,7671.0,Recovered
+P00248,40,35-54,Male,2023-05-21,2023-05-24,3,Stroke,Thrombolysis,Dr. Priya Khan,Neurology,207,19538.0,Recovered
+P00249,80,75+,Male,2023-04-10,2023-04-13,3,Hypertension,Monitoring,Dr. Sanjay Desai,Cardiology,246,19227.0,Recovered
+P00250,58,55-74,Female,2023-06-17,2023-06-20,3,Pneumonia,Antibiotics,Dr. Meera Rao,Pulmonology,264,12193.0,Recovered
+P00251,42,35-54,Female,2024-10-21,2024-10-26,5,Fracture,Casting,Dr. Anita Joshi,Orthopedics,251,19550.0,Recovered
+P00252,71,55-74,Male,2023-04-23,2023-04-24,1,Uti,Hydration,Dr. Priya Khan,Urology,290,5732.0,Recovered
+P00253,27,18-34,Male,2023-04-28,2023-04-30,2,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,219,28105.0,Recovered
+P00254,38,35-54,Female,2023-05-21,2023-05-28,7,Sepsis,Icu Support,Dr. Riya Patel,Critical Care,274,77979.0,Recovered
+P00255,57,55-74,Male,2023-11-14,2023-11-17,3,Stroke,Rehabilitation,Dr. Meera Rao,Neurology,260,18250.0,Recovered
+P00256,34,18-34,Male,2024-09-27,2024-10-01,4,Uti,Antibiotics,Dr. Neha Gupta,Urology,243,13839.0,Recovered
+P00257,18,18-34,Female,2024-01-02,2024-01-08,6,Fracture,Casting,Dr. Neha Gupta,Orthopedics,151,22784.0,Recovered
+P00258,67,55-74,Female,2023-06-03,2023-06-07,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Rohit Iyer,Critical Care,163,48715.0,Recovered
+P00259,64,55-74,Male,2023-03-09,2023-03-16,7,Fracture,Physiotherapy,Dr. Priya Khan,Orthopedics,351,25894.0,Recovered
+P00260,84,75+,Female,2024-01-02,2024-01-05,3,Uti,Hydration,Dr. Neha Gupta,Urology,344,12045.0,Recovered
+P00261,83,75+,Male,2023-02-08,2023-02-11,3,Fracture,Casting,Dr. Anita Joshi,Orthopedics,208,12665.0,Recovered
+P00262,39,35-54,Male,2023-11-10,2023-11-15,5,Appendicitis,Appendectomy,Dr. Meera Rao,General Surgery,305,26654.0,Recovered
+P00263,64,55-74,Male,2024-08-25,2024-08-27,2,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,314,9681.0,Recovered
+P00264,27,18-34,Female,2024-07-02,2024-07-08,6,Heart Failure,Ace Inhibitors,Dr. Riya Patel,Cardiology,282,34092.0,Recovered
+P00265,97,75+,Female,2024-05-26,2024-05-27,1,Pneumonia,Physiotherapy,Dr. Meera Rao,Pulmonology,208,5502.0,Recovered
+P00266,67,55-74,Male,2023-05-09,2023-05-13,4,Heart Failure,Monitoring,Dr. Priya Khan,Cardiology,297,24170.0,Recovered
+P00267,83,75+,Male,2023-03-10,2023-03-13,3,Covid-19,Antivirals,Dr. Kumar Das,Infectious Diseases,121,9966.0,Recovered
+P00268,51,35-54,Female,2023-11-07,2023-11-12,5,Uti,Hydration,Dr. Priya Khan,Urology,288,16857.0,Recovered
+P00269,34,18-34,Male,2024-02-29,2024-03-07,7,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,283,37341.0,Recovered
+P00270,22,18-34,Male,2023-09-04,2023-09-06,2,Pneumonia,Oxygen Therapy,Dr. Priya Khan,Pulmonology,209,8981.0,Recovered
+P00271,29,18-34,Male,2023-08-23,2023-08-28,5,Covid-19,Antivirals,Dr. Vikram Singh,Infectious Diseases,196,14446.0,Recovered
+P00272,18,18-34,Male,2024-01-17,2024-01-24,7,Stroke,Thrombolysis,Dr. Kumar Das,Neurology,91,37801.0,Recovered
+P00273,33,18-34,Male,2023-08-27,2023-08-29,2,Hypertension,Bp Control,Dr. Sanjay Desai,Cardiology,276,13597.0,Recovered
+P00274,68,55-74,Female,2024-03-26,2024-03-29,3,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,247,18618.0,Recovered
+P00275,31,18-34,Female,2023-05-24,2023-05-25,1,Covid-19,Antivirals,Dr. Neha Gupta,Infectious Diseases,272,4894.0,Recovered
+P00276,50,35-54,Male,2023-07-18,2023-07-23,5,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,233,58470.0,Recovered
+P00277,35,35-54,Female,2023-04-26,2023-04-28,2,Asthma,Bronchodilators,Dr. Rohit Iyer,Pulmonology,137,8809.0,Recovered
+P00278,53,35-54,Female,2023-02-09,2023-02-11,2,Diabetes Complication,Monitoring,Dr. Sanjay Desai,Endocrinology,327,6484.0,Recovered
+P00279,1,0-17,Female,2024-07-14,2024-07-17,3,Uti,Hydration,Dr. Meera Rao,Urology,150,12309.0,Recovered
+P00280,44,35-54,Male,2024-04-24,2024-04-29,5,Asthma,Bronchodilators,Dr. Meera Rao,Pulmonology,267,17731.0,Recovered
+P00281,86,75+,Female,2024-07-29,2024-08-05,7,Covid-19,Antivirals,Dr. Rohit Iyer,Infectious Diseases,273,19086.0,Recovered
+P00282,93,75+,Female,2023-10-27,2023-10-31,4,Uti,Antibiotics,Dr. Priya Khan,Urology,245,14471.0,Recovered
+P00283,66,55-74,Female,2023-08-10,2023-08-14,4,Fracture,Surgery,Dr. Anita Joshi,Orthopedics,286,16564.0,Recovered
+P00284,69,55-74,Female,2023-12-06,2023-12-08,2,Covid-19,Antivirals,Dr. Amit Sharma,Infectious Diseases,270,6418.0,Recovered
+P00285,49,35-54,Female,2023-08-05,2023-08-14,9,Diabetes Complication,Monitoring,Dr. Meera Rao,Endocrinology,295,20306.0,Recovered
+P00286,90,75+,Male,2024-10-16,2024-10-22,6,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,188,33556.0,Recovered
+P00287,57,55-74,Female,2023-07-27,2023-07-30,3,Fracture,Casting,Dr. Meera Rao,Orthopedics,303,13684.0,Recovered
+P00288,24,18-34,Male,2023-07-30,2023-08-05,6,Stroke,Thrombolysis,Dr. Anita Joshi,Neurology,242,33562.0,Recovered
+P00289,13,0-17,Male,2023-07-08,2023-07-13,5,Uti,Antibiotics,Dr. Neha Gupta,Urology,310,17670.0,Recovered
+P00290,82,75+,Female,2023-09-17,2023-09-19,2,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,288,7167.0,Recovered
+P00291,49,35-54,Female,2024-01-10,2024-01-15,5,Hypertension,Bp Control,Dr. Kumar Das,Cardiology,262,29484.0,Recovered
+P00292,65,55-74,Female,2024-06-21,2024-06-25,4,Heart Failure,Diuretics,Dr. Riya Patel,Cardiology,262,24369.0,Recovered
+P00293,45,35-54,Female,2024-06-02,2024-06-08,6,Heart Failure,Ace Inhibitors,Dr. Meera Rao,Cardiology,291,33490.0,Recovered
+P00294,56,55-74,Male,2024-08-29,2024-09-01,3,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,293,11657.0,Recovered
+P00295,10,0-17,Female,2023-03-12,2023-03-15,3,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,234,9580.0,Transferred
+P00296,39,35-54,Male,2023-08-24,2023-08-28,4,Diabetes Complication,Monitoring,Dr. Rohit Iyer,Endocrinology,203,9352.0,Recovered
+P00297,95,75+,Other,2023-03-27,2023-03-31,4,Sepsis,Icu Support,Unknown,Critical Care,281,48424.0,Recovered
+P00298,61,55-74,Male,2024-04-30,2024-05-03,3,Covid-19,Steroids,Dr. Riya Patel,Infectious Diseases,240,10217.0,Transferred
+P00299,56,55-74,Female,2023-06-30,2023-07-07,7,Diabetes Complication,Monitoring,Dr. Meera Rao,Endocrinology,233,16422.0,Recovered
+P00300,81,75+,Male,2023-07-20,2023-07-26,6,Uti,Antibiotics,Dr. Vikram Singh,Urology,220,19972.0,Recovered
+P00301,80,75+,Female,2024-01-25,2024-01-30,5,Fracture,Physiotherapy,Dr. Kumar Das,Orthopedics,196,19701.0,Recovered
+P00302,91,75+,Male,2024-03-26,2024-03-29,3,Asthma,Bronchodilators,Dr. Kumar Das,Pulmonology,254,11722.0,Recovered
+P00303,77,75+,Male,2024-01-22,2024-01-28,6,Asthma,Bronchodilators,Dr. Priya Khan,Pulmonology,398,21633.0,Recovered
+P00304,3,0-17,Male,2024-09-30,2024-10-02,2,Stroke,Rehabilitation,Dr. Kumar Das,Neurology,273,23288.5,Recovered
+P00305,23,18-34,Female,2024-12-31,2025-01-01,1,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,267,8907.0,Recovered
+P00306,27,18-34,Female,2023-09-29,2023-10-07,8,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,257,43797.0,Recovered
+P00307,14,0-17,Female,2024-12-14,2024-12-17,3,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,288,18978.0,Recovered
+P00308,31,18-34,Male,2024-04-25,2024-05-01,6,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,364,31932.0,Recovered
+P00309,92,75+,Female,2024-02-28,2024-03-02,3,Heart Failure,Ace Inhibitors,Dr. Neha Gupta,Cardiology,342,19068.0,Recovered
+P00310,10,0-17,Male,2023-05-29,2023-06-05,7,Stroke,Rehabilitation,Dr. Vikram Singh,Neurology,269,38066.0,Recovered
+P00311,42,35-54,Male,2023-09-26,2023-09-27,1,Sepsis,Broad-Spectrum Antibiotics,Dr. Sanjay Desai,Critical Care,184,17361.0,Recovered
+P00312,27,18-34,Male,2023-07-29,2023-08-04,6,Covid-19,Oxygen Therapy,Dr. Kumar Das,Infectious Diseases,188,17670.0,Recovered
+P00313,24,18-34,Female,2024-08-01,2024-08-09,8,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,193,41373.0,Recovered
+P00314,94,75+,Male,2023-05-20,2023-05-24,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Anita Joshi,Critical Care,199,47058.0,Recovered
+P00315,85,75+,Male,2024-04-25,2024-04-28,3,Stroke,Rehabilitation,Unknown,Neurology,319,19511.0,Recovered
+P00316,69,55-74,Female,2023-04-22,2023-04-23,1,Fracture,Physiotherapy,Dr. Riya Patel,Orthopedics,363,6809.0,Recovered
+P00317,9,0-17,Male,2024-12-12,2024-12-17,5,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,340,17801.0,Recovered
+P00318,29,18-34,Female,2023-04-18,2023-04-19,1,Pneumonia,Antibiotics,Dr. Kumar Das,Pulmonology,270,5423.0,Recovered
+P00319,93,75+,Male,2024-11-28,2024-11-30,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,225,28943.0,Recovered
+P00320,0,0-17,Male,2023-07-10,2023-07-16,6,Stroke,Rehabilitation,Unknown,Neurology,178,33098.0,Recovered
+P00321,77,75+,Female,2023-06-12,2023-06-17,5,Pneumonia,Physiotherapy,Dr. Meera Rao,Pulmonology,261,17724.0,Recovered
+P00322,25,18-34,Female,2024-06-15,2024-06-21,6,Fracture,Physiotherapy,Dr. Priya Khan,Orthopedics,343,16427.0,Recovered
+P00323,34,18-34,Male,2024-09-03,2024-09-06,3,Uti,Antibiotics,Dr. Anita Joshi,Urology,345,11222.0,Recovered
+P00324,13,0-17,Male,2024-04-07,2024-04-09,2,Diabetes Complication,Insulin Adjustment,Dr. Anita Joshi,Endocrinology,244,5736.0,Recovered
+P00325,65,55-74,Female,2023-05-16,2023-05-25,9,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,369,24875.0,Recovered
+P00326,59,55-74,Male,2024-01-17,2024-01-22,5,Hypertension,Bp Control,Dr. Priya Khan,Cardiology,289,28764.0,Recovered
+P00327,95,75+,Male,2023-07-21,2023-07-23,2,Uti,Hydration,Dr. Neha Gupta,Urology,244,8809.0,Recovered
+P00328,4,0-17,Female,2024-05-18,2024-05-24,6,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,326,33543.0,Recovered
+P00329,72,55-74,Male,2023-03-24,2023-03-29,5,Stroke,Thrombolysis,Unknown,Neurology,333,28065.0,Recovered
+P00330,57,55-74,Male,2024-09-30,2024-10-02,2,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,215,9788.0,Recovered
+P00331,84,75+,Female,2024-11-15,2024-11-18,3,Heart Failure,Diuretics,Dr. Kumar Das,Cardiology,240,18988.0,Recovered
+P00332,58,55-74,Female,2023-09-19,2023-09-23,4,Diabetes Complication,Monitoring,Dr. Rohit Iyer,Endocrinology,395,10650.0,Recovered
+P00333,62,55-74,Male,2024-07-28,2024-07-30,2,Uti,Antibiotics,Dr. Meera Rao,Urology,207,8244.0,Recovered
+P00334,68,55-74,Male,2024-09-21,2024-09-24,3,Uti,Hydration,Unknown,Urology,249,11072.0,Recovered
+P00335,66,55-74,Female,2024-03-06,2024-03-11,5,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,201,27528.0,Recovered
+P00336,15,0-17,Male,2023-01-30,2023-02-03,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,231,22805.0,Recovered
+P00337,18,18-34,Female,2023-04-26,2023-05-02,6,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,178,31946.0,Recovered
+P00338,41,35-54,Male,2024-08-29,2024-09-07,9,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,292,28559.0,Recovered
+P00339,45,35-54,Male,2023-04-17,2023-04-19,2,Diabetes Complication,Insulin Adjustment,Dr. Amit Sharma,Endocrinology,149,6079.0,Recovered
+P00340,74,55-74,Other,2023-11-17,2023-11-22,5,Stroke,Rehabilitation,Dr. Vikram Singh,Neurology,291,28173.0,Recovered
+P00341,41,35-54,Male,2023-09-03,2023-09-06,3,Hypertension,Bp Control,Dr. Priya Khan,Cardiology,232,17943.0,Recovered
+P00342,39,35-54,Male,2023-07-20,2023-07-30,10,Pneumonia,Antibiotics,Dr. Rohit Iyer,Pulmonology,179,32660.0,Recovered
+P00343,20,18-34,Male,2024-10-19,2024-10-22,3,Asthma,Steroids,Dr. Neha Gupta,Pulmonology,154,11937.0,Recovered
+P00344,19,18-34,Female,2023-07-14,2023-07-16,2,Stroke,Thrombolysis,Dr. Rohit Iyer,Neurology,201,13613.0,Recovered
+P00345,77,75+,Female,2023-12-03,2023-12-06,3,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,204,18743.0,Recovered
+P00346,77,75+,Male,2023-09-02,2023-09-05,3,Diabetes Complication,Insulin Adjustment,Dr. Vikram Singh,Endocrinology,286,9382.0,Recovered
+P00347,24,18-34,Male,2024-05-22,2024-05-25,3,Stroke,Rehabilitation,Dr. Amit Sharma,Neurology,202,18509.0,Recovered
+P00348,19,18-34,Female,2023-07-12,2023-07-17,5,Asthma,Steroids,Dr. Vikram Singh,Pulmonology,330,17118.0,Recovered
+P00349,75,75+,Female,2023-10-03,2023-10-09,6,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,375,30993.0,Recovered
+P00350,82,75+,Male,2023-07-19,2023-07-23,4,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,320,25139.0,Recovered
+P00351,25,18-34,Male,2024-06-06,2024-06-08,2,Pneumonia,Physiotherapy,Dr. Vikram Singh,Pulmonology,304,7728.0,Recovered
+P00352,71,55-74,Female,2024-01-11,2024-01-16,5,Fracture,Physiotherapy,Dr. Meera Rao,Orthopedics,353,19610.0,Recovered
+P00353,12,0-17,Female,2023-04-28,2023-05-04,6,Fracture,Physiotherapy,Dr. Vikram Singh,Orthopedics,210,23221.0,Recovered
+P00354,56,55-74,Male,2023-02-23,2023-02-25,2,Diabetes Complication,Insulin Adjustment,Unknown,Endocrinology,191,6000.0,Recovered
+P00355,92,75+,Female,2024-09-13,2024-09-19,6,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,260,33255.0,Deceased
+P00356,40,35-54,Male,2024-03-16,2024-03-20,4,Pneumonia,Antibiotics,Dr. Amit Sharma,Pulmonology,280,14136.0,Recovered
+P00357,89,75+,Male,2023-03-12,2023-03-18,6,Pneumonia,Oxygen Therapy,Dr. Riya Patel,Pulmonology,237,20901.0,Recovered
+P00358,15,0-17,Female,2023-07-06,2023-07-10,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,212,21996.0,Recovered
+P00359,11,0-17,Female,2024-06-13,2024-06-16,3,Fracture,Physiotherapy,Dr. Neha Gupta,Orthopedics,191,12291.0,Recovered
+P00360,23,18-34,Male,2023-04-11,2023-04-13,2,Asthma,Bronchodilators,Dr. Priya Khan,Pulmonology,273,8256.0,Recovered
+P00361,38,35-54,Other,2024-02-09,2024-02-10,1,Heart Failure,Diuretics,Dr. Meera Rao,Cardiology,239,8466.0,Recovered
+P00362,43,35-54,Male,2023-09-16,2023-09-21,5,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,211,11592.0,Recovered
+P00363,87,75+,Female,2023-06-21,2023-06-24,3,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,243,11560.0,Recovered
+P00364,50,35-54,Female,2023-09-22,2023-09-23,1,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,208,9457.0,Recovered
+P00365,38,35-54,Male,2023-05-03,2023-05-05,2,Uti,Antibiotics,Dr. Sanjay Desai,Urology,242,8320.0,Recovered
+P00366,18,18-34,Female,2024-06-03,2024-06-06,3,Uti,Antibiotics,Dr. Vikram Singh,Urology,351,12348.0,Recovered
+P00367,59,55-74,Male,2023-11-23,2023-11-24,1,Stroke,Rehabilitation,Dr. Kumar Das,Neurology,376,9298.0,Recovered
+P00368,79,75+,Female,2024-01-04,2024-01-05,1,Uti,Hydration,Dr. Kumar Das,Urology,253,5270.0,Recovered
+P00369,22,18-34,Other,2024-03-02,2024-03-04,2,Stroke,Rehabilitation,Dr. Rohit Iyer,Neurology,192,14051.0,Recovered
+P00370,55,55-74,Male,2023-04-21,2023-04-24,3,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,281,8028.0,Recovered
+P00371,44,35-54,Male,2024-06-20,2024-06-22,2,Fracture,Casting,Dr. Kumar Das,Orthopedics,230,9524.0,Recovered
+P00372,76,75+,Male,2024-03-14,2024-03-20,6,Appendicitis,Antibiotics,Dr. Meera Rao,General Surgery,214,32038.0,Recovered
+P00373,91,75+,Female,2023-10-16,2023-10-21,5,Pneumonia,Physiotherapy,Dr. Vikram Singh,Pulmonology,117,18052.0,Recovered
+P00374,53,35-54,Male,2024-06-23,2024-06-26,3,Uti,Antibiotics,Dr. Kumar Das,Urology,332,10816.0,Recovered
+P00375,22,18-34,Female,2024-08-11,2024-08-15,4,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,290,23594.0,Recovered
+P00376,41,35-54,Male,2024-03-07,2024-03-14,7,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,218,37017.0,Recovered
+P00377,40,35-54,Male,2023-02-27,2023-03-01,2,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,231,8401.0,Recovered
+P00378,65,55-74,Female,2024-05-17,2024-05-19,2,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,196,13836.0,Recovered
+P00379,0,0-17,Male,2024-03-04,2024-03-07,3,Uti,Antibiotics,Dr. Neha Gupta,Urology,276,12010.0,Recovered
+P00380,72,55-74,Female,2024-04-25,2024-04-27,2,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,377,14665.0,Recovered
+P00381,95,75+,Female,2024-05-05,2024-05-06,1,Stroke,Thrombolysis,Dr. Kumar Das,Neurology,208,8541.0,Recovered
+P00382,72,55-74,Female,2024-05-30,2024-06-03,4,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,243,22999.0,Recovered
+P00383,17,0-17,Female,2024-08-27,2024-09-01,5,Uti,Hydration,Dr. Neha Gupta,Urology,233,17225.0,Recovered
+P00384,41,35-54,Female,2024-01-11,2024-01-14,3,Heart Failure,Diuretics,Dr. Sanjay Desai,Cardiology,278,19099.0,Recovered
+P00385,63,55-74,Female,2023-05-31,2023-06-04,4,Sepsis,Icu Support,Dr. Rohit Iyer,Critical Care,245,48242.0,Recovered
+P00386,69,55-74,Male,2023-04-09,2023-04-14,5,Sepsis,Icu Support,Dr. Priya Khan,Critical Care,256,58037.0,Recovered
+P00387,88,75+,Male,2024-06-30,2024-07-05,5,Uti,Hydration,Dr. Meera Rao,Urology,232,16773.0,Recovered
+P00388,82,75+,Female,2024-12-03,2024-12-08,5,Appendicitis,Appendectomy,Dr. Sanjay Desai,General Surgery,226,26925.0,Recovered
+P00389,74,55-74,Female,2023-04-25,2023-05-20,25,Covid-19,Antivirals,Dr. Anita Joshi,Infectious Diseases,242,64870.0,Recovered
+P00390,93,75+,Female,2023-06-28,2023-07-03,5,Hypertension,Monitoring,Unknown,Cardiology,283,28817.0,Recovered
+P00391,6,0-17,Female,2024-12-31,2025-01-02,2,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,315,14211.0,Recovered
+P00392,36,35-54,Female,2024-01-18,2024-01-27,9,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,268,28995.0,Recovered
+P00393,78,75+,Male,2023-01-27,2023-02-01,5,Covid-19,Oxygen Therapy,Dr. Riya Patel,Infectious Diseases,188,14549.0,Recovered
+P00394,12,0-17,Other,2024-03-21,2024-03-24,3,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,209,18936.0,Recovered
+P00395,1,0-17,Male,2024-08-23,2024-08-27,4,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,190,10913.0,Recovered
+P00396,57,55-74,Male,2023-05-12,2023-05-18,6,Hypertension,Bp Control,Unknown,Cardiology,227,33326.0,Recovered
+P00397,8,0-17,Female,2023-12-08,2023-12-11,3,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,269,11584.0,Recovered
+P00398,87,75+,Male,2023-05-05,2023-05-09,4,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,243,22274.0,Recovered
+P00399,76,75+,Female,2023-06-20,2023-06-24,4,Hypertension,Monitoring,Dr. Meera Rao,Cardiology,266,23989.0,Recovered
+P00400,6,0-17,Female,2024-04-14,2024-04-21,7,Hypertension,Monitoring,Dr. Neha Gupta,Cardiology,256,38442.0,Recovered
+P00401,85,75+,Female,2024-09-02,2024-09-09,7,Heart Failure,Diuretics,Dr. Riya Patel,Cardiology,304,39229.0,Recovered
+P00402,66,55-74,Female,2024-07-22,2024-07-24,2,Uti,Hydration,Dr. Neha Gupta,Urology,201,8642.0,Deceased
+P00403,90,75+,Female,2024-06-11,2024-06-13,2,Covid-19,Antivirals,Unknown,Infectious Diseases,240,7306.0,Recovered
+P00404,78,75+,Female,2024-03-27,2024-04-01,5,Heart Failure,Ace Inhibitors,Dr. Sanjay Desai,Cardiology,189,29880.0,Recovered
+P00405,57,55-74,Male,2023-02-14,2023-02-17,3,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,304,18530.0,Recovered
+P00406,90,75+,Female,2023-05-10,2023-05-15,5,Heart Failure,Ace Inhibitors,Dr. Neha Gupta,Cardiology,227,28835.0,Recovered
+P00407,22,18-34,Female,2023-11-10,2023-11-13,3,Stroke,Rehabilitation,Dr. Kumar Das,Neurology,165,19260.0,Recovered
+P00408,97,75+,Female,2023-05-06,2023-05-13,7,Pneumonia,Physiotherapy,Dr. Riya Patel,Pulmonology,196,23807.0,Recovered
+P00409,57,55-74,Male,2023-10-19,2023-10-22,3,Fracture,Casting,Dr. Sanjay Desai,Orthopedics,316,13219.0,Recovered
+P00410,47,35-54,Male,2023-06-15,2023-06-18,3,Fracture,Casting,Unknown,Orthopedics,230,13641.0,Recovered
+P00411,87,75+,Male,2023-12-03,2023-12-07,4,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,224,23890.0,Recovered
+P00412,41,35-54,Male,2023-04-11,2023-05-08,27,Hypertension,Monitoring,Dr. Riya Patel,Cardiology,350,139879.0,Recovered
+P00413,76,75+,Male,2023-09-04,2023-09-11,7,Diabetes Complication,Monitoring,Dr. Rohit Iyer,Endocrinology,340,16199.0,Recovered
+P00414,62,55-74,Female,2023-02-18,2023-02-27,9,Covid-19,Oxygen Therapy,Dr. Vikram Singh,Infectious Diseases,216,25669.0,Recovered
+P00415,91,75+,Female,2023-05-28,2023-05-31,3,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,243,19832.0,Recovered
+P00416,51,35-54,Female,2024-04-03,2024-04-11,8,Pneumonia,Antibiotics,Dr. Amit Sharma,Pulmonology,167,25910.0,Recovered
+P00417,47,35-54,Female,2024-08-18,2024-08-26,8,Fracture,Surgery,Dr. Kumar Das,Orthopedics,271,29642.0,Recovered
+P00418,70,55-74,Female,2023-01-19,2023-01-23,4,Fracture,Surgery,Dr. Anita Joshi,Orthopedics,177,16175.0,Recovered
+P00419,36,35-54,Male,2024-01-22,2024-01-24,2,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,317,9993.0,Recovered
+P00420,34,18-34,Male,2024-05-17,2024-05-21,4,Fracture,Casting,Dr. Sanjay Desai,Orthopedics,227,15948.0,Recovered
+P00421,11,0-17,Male,2024-02-01,2024-02-06,5,Asthma,Bronchodilators,Dr. Kumar Das,Pulmonology,217,16996.0,Recovered
+P00422,56,55-74,Female,2023-01-02,2023-01-05,3,Heart Failure,Diuretics,Dr. Anita Joshi,Cardiology,365,18613.0,Recovered
+P00423,84,75+,Female,2023-08-24,2023-08-30,6,Uti,Antibiotics,Dr. Neha Gupta,Urology,285,19684.0,Recovered
+P00424,16,0-17,Female,2023-10-21,2023-10-25,4,Hypertension,Bp Control,Dr. Sanjay Desai,Cardiology,87,23686.0,Recovered
+P00425,56,55-74,Male,2023-10-25,2023-10-28,3,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,320,11394.0,Recovered
+P00426,32,18-34,Male,2024-08-18,2024-08-22,4,Asthma,Steroids,Dr. Amit Sharma,Pulmonology,203,14371.0,Recovered
+P00427,10,0-17,Female,2023-08-06,2023-08-12,6,Heart Failure,Ace Inhibitors,Dr. Riya Patel,Cardiology,192,33423.0,Recovered
+P00428,52,35-54,Male,2024-06-13,2024-06-19,6,Heart Failure,Monitoring,Unknown,Cardiology,243,34196.0,Recovered
+P00429,1,0-17,Male,2023-10-09,2023-10-11,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,222,28205.0,Recovered
+P00430,74,55-74,Female,2023-06-18,2023-06-20,2,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,295,14363.0,Recovered
+P00431,99,75+,Female,2024-07-30,2024-08-04,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Sanjay Desai,Critical Care,226,58234.0,Deceased
+P00432,93,75+,Female,2023-03-09,2023-03-12,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,96,38070.0,Recovered
+P00433,27,18-34,Female,2023-07-16,2023-07-21,5,Pneumonia,Physiotherapy,Dr. Rohit Iyer,Pulmonology,175,17781.0,Recovered
+P00434,50,35-54,Male,2024-01-12,2024-01-15,3,Uti,Hydration,Dr. Amit Sharma,Urology,242,11214.0,Recovered
+P00435,97,75+,Female,2024-06-04,2024-06-08,4,Pneumonia,Oxygen Therapy,Dr. Vikram Singh,Pulmonology,343,13735.0,Recovered
+P00436,78,75+,Male,2023-12-02,2023-12-03,1,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,222,3481.0,Recovered
+P00437,90,75+,Female,2024-11-16,2024-11-21,5,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,235,28201.0,Recovered
+P00438,94,75+,Female,2024-01-02,2024-01-11,9,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,204,44983.0,Recovered
+P00439,55,55-74,Female,2023-02-13,2023-02-16,3,Heart Failure,Ace Inhibitors,Dr. Meera Rao,Cardiology,138,19056.0,Recovered
+P00440,76,75+,Female,2023-02-14,2023-02-16,2,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,157,13920.0,Recovered
+P00441,67,55-74,Male,2024-12-06,2024-12-11,5,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,266,17246.0,Recovered
+P00442,84,75+,Female,2023-02-18,2023-02-19,1,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,390,17642.0,Recovered
+P00443,62,55-74,Male,2023-11-02,2023-11-04,2,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,333,7363.0,Transferred
+P00444,9,0-17,Female,2023-03-12,2023-03-18,6,Fracture,Casting,Dr. Sanjay Desai,Orthopedics,264,22155.0,Recovered
+P00445,92,75+,Female,2023-07-12,2023-07-18,6,Fracture,Casting,Dr. Amit Sharma,Orthopedics,359,22582.0,Recovered
+P00446,76,75+,Male,2023-07-20,2023-07-22,2,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,292,14709.0,Recovered
+P00447,58,55-74,Female,2023-01-17,2023-01-18,1,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,202,5043.0,Recovered
+P00448,70,55-74,Female,2024-07-01,2024-07-02,1,Appendicitis,Antibiotics,Dr. Riya Patel,General Surgery,245,22274.0,Recovered
+P00449,68,55-74,Female,2023-02-26,2023-03-02,4,Heart Failure,Monitoring,Dr. Priya Khan,Cardiology,246,23912.0,Recovered
+P00450,26,18-34,Male,2023-03-17,2023-03-21,4,Covid-19,Antivirals,Dr. Vikram Singh,Infectious Diseases,253,11529.0,Recovered
+P00451,31,18-34,Female,2024-06-13,2024-06-19,6,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,282,16415.0,Recovered
+P00452,71,55-74,Other,2024-06-30,2024-07-06,6,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,215,31324.0,Recovered
+P00453,54,35-54,Male,2023-03-29,2023-03-31,2,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,255,9297.0,Recovered
+P00454,78,75+,Female,2023-05-02,2023-05-04,2,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,245,26804.0,Recovered
+P00455,44,35-54,Female,2024-02-22,2024-02-25,3,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,322,7237.0,Recovered
+P00456,3,0-17,Male,2024-08-22,2024-08-25,3,Pneumonia,Oxygen Therapy,Dr. Meera Rao,Pulmonology,171,10702.0,Transferred
+P00457,58,55-74,Male,2023-11-20,2023-11-21,1,Uti,Hydration,Dr. Neha Gupta,Urology,252,4928.0,Recovered
+P00458,67,55-74,Female,2023-05-21,2023-05-24,3,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,248,11447.0,Recovered
+P00459,42,35-54,Female,2024-06-17,2024-06-22,5,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,290,28424.0,Recovered
+P00460,73,55-74,Male,2023-02-09,2023-02-11,2,Covid-19,Oxygen Therapy,Unknown,Infectious Diseases,357,7273.0,Recovered
+P00461,9,0-17,Female,2023-06-11,2023-06-12,1,Appendicitis,Appendectomy,Dr. Kumar Das,General Surgery,274,8904.0,Recovered
+P00462,19,18-34,Male,2024-04-08,2024-04-13,5,Asthma,Bronchodilators,Dr. Neha Gupta,Pulmonology,285,17840.0,Recovered
+P00463,92,75+,Female,2023-02-18,2023-02-21,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,242,37598.0,Recovered
+P00464,9,0-17,Male,2024-09-26,2024-09-29,3,Hypertension,Monitoring,Dr. Amit Sharma,Cardiology,254,19526.0,Recovered
+P00465,58,55-74,Female,2023-04-02,2023-04-06,4,Heart Failure,Ace Inhibitors,Dr. Meera Rao,Cardiology,213,23798.0,Recovered
+P00466,37,35-54,Male,2024-07-18,2024-07-22,4,Appendicitis,Antibiotics,Unknown,General Surgery,195,22018.0,Recovered
+P00467,96,75+,Other,2023-07-22,2023-07-29,7,Heart Failure,Diuretics,Dr. Kumar Das,Cardiology,242,39423.0,Recovered
+P00468,50,35-54,Male,2023-05-06,2023-05-08,2,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,296,13972.0,Recovered
+P00469,75,75+,Male,2023-03-26,2023-03-29,3,Heart Failure,Monitoring,Dr. Amit Sharma,Cardiology,317,19632.0,Recovered
+P00470,25,18-34,Male,2023-09-28,2023-09-30,2,Covid-19,Steroids,Dr. Rohit Iyer,Infectious Diseases,242,7683.0,Recovered
+P00471,20,18-34,Female,2023-06-04,2023-06-09,5,Fracture,Casting,Dr. Neha Gupta,Orthopedics,237,20089.0,Recovered
+P00472,8,0-17,Male,2024-10-27,2024-11-02,6,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,190,33032.0,Recovered
+P00473,96,75+,Female,2023-09-06,2023-09-08,2,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,321,14424.0,Recovered
+P00474,4,0-17,Female,2023-02-11,2023-02-13,2,Asthma,Bronchodilators,Dr. Riya Patel,Pulmonology,181,8732.0,Recovered
+P00475,66,55-74,Female,2023-11-10,2023-11-14,4,Heart Failure,Diuretics,Dr. Meera Rao,Cardiology,222,24378.0,Recovered
+P00476,80,75+,Male,2023-04-27,2023-04-29,2,Pneumonia,Physiotherapy,Dr. Vikram Singh,Pulmonology,217,8174.0,Recovered
+P00477,25,18-34,Female,2024-06-19,2024-06-23,4,Uti,Hydration,Dr. Neha Gupta,Urology,214,13971.0,Recovered
+P00478,10,0-17,Female,2024-12-30,2025-01-03,4,Stroke,Rehabilitation,Unknown,Neurology,302,22423.0,Recovered
+P00479,2,0-17,Male,2023-02-18,2023-02-22,4,Uti,Antibiotics,Dr. Rohit Iyer,Urology,289,14166.0,Recovered
+P00480,0,0-17,Male,2024-06-30,2024-07-02,2,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,331,7023.0,Recovered
+P00481,21,18-34,Male,2023-04-19,2023-04-21,2,Covid-19,Oxygen Therapy,Dr. Kumar Das,Infectious Diseases,220,7737.0,Recovered
+P00482,21,18-34,Male,2024-09-03,2024-09-06,3,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,260,19072.0,Recovered
+P00483,77,75+,Male,2024-05-28,2024-06-04,7,Fracture,Casting,Dr. Meera Rao,Orthopedics,236,26283.0,Recovered
+P00484,6,0-17,Male,2023-01-12,2023-01-19,7,Pneumonia,Antibiotics,Dr. Rohit Iyer,Pulmonology,274,23385.0,Recovered
+P00485,77,75+,Male,2024-01-25,2024-01-27,2,Uti,Antibiotics,Dr. Sanjay Desai,Urology,266,8448.0,Recovered
+P00486,13,0-17,Other,2024-09-17,2024-09-19,2,Uti,Hydration,Dr. Amit Sharma,Urology,297,8315.0,Transferred
+P00487,76,75+,Male,2024-04-06,2024-04-08,2,Covid-19,Antivirals,Dr. Priya Khan,Infectious Diseases,219,7110.0,Recovered
+P00488,66,55-74,Male,2023-07-23,2023-07-26,3,Diabetes Complication,Insulin Adjustment,Dr. Sanjay Desai,Endocrinology,278,6679.0,Recovered
+P00489,43,35-54,Male,2024-04-15,2024-04-17,2,Diabetes Complication,Insulin Adjustment,Dr. Rohit Iyer,Endocrinology,293,6068.0,Recovered
+P00490,68,55-74,Male,2023-11-26,2023-11-30,4,Sepsis,Icu Support,Dr. Vikram Singh,Critical Care,258,48005.0,Recovered
+P00491,23,18-34,Male,2023-07-07,2023-07-13,6,Diabetes Complication,Insulin Adjustment,Dr. Neha Gupta,Endocrinology,206,13666.0,Recovered
+P00492,29,18-34,Female,2023-11-25,2023-11-29,4,Pneumonia,Oxygen Therapy,Dr. Vikram Singh,Pulmonology,259,14759.0,Recovered
+P00493,82,75+,Female,2024-11-12,2024-11-18,6,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,202,30510.0,Recovered
+P00494,48,35-54,Male,2024-06-17,2024-06-19,2,Diabetes Complication,Monitoring,Dr. Meera Rao,Endocrinology,232,6065.0,Recovered
+P00495,76,75+,Other,2024-10-27,2024-10-29,2,Covid-19,Oxygen Therapy,Dr. Amit Sharma,Infectious Diseases,344,7539.0,Recovered
+P00496,16,0-17,Male,2023-07-05,2023-07-11,6,Appendicitis,Appendectomy,Unknown,General Surgery,264,31099.0,Recovered
+P00497,54,35-54,Male,2023-03-20,2023-04-04,15,Stroke,Rehabilitation,Dr. Vikram Singh,Neurology,329,75485.0,Recovered
+P00498,81,75+,Other,2024-01-07,2024-01-12,5,Diabetes Complication,Insulin Adjustment,Dr. Anita Joshi,Endocrinology,251,11527.0,Recovered
+P00499,79,75+,Other,2023-04-09,2023-04-14,5,Diabetes Complication,Monitoring,Dr. Rohit Iyer,Endocrinology,237,12323.0,Recovered
+P00500,31,18-34,Male,2024-10-25,2024-10-27,2,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,267,7172.0,Recovered
+P00501,24,18-34,Male,2024-03-12,2024-03-17,5,Appendicitis,Appendectomy,Dr. Amit Sharma,General Surgery,334,26758.0,Recovered
+P00502,44,35-54,Female,2024-01-14,2024-01-18,4,Heart Failure,Diuretics,Dr. Rohit Iyer,Cardiology,222,24384.0,Deceased
+P00503,98,75+,Female,2024-12-28,2025-01-03,6,Hypertension,Bp Control,Dr. Rohit Iyer,Cardiology,149,34527.0,Deceased
+P00504,84,75+,Male,2023-09-12,2023-09-16,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Riya Patel,Critical Care,259,48660.0,Recovered
+P00505,18,18-34,Female,2024-01-06,2024-01-10,4,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,286,22586.0,Recovered
+P00506,32,18-34,Male,2023-07-31,2023-08-04,4,Covid-19,Antivirals,Dr. Kumar Das,Infectious Diseases,285,9515.0,Recovered
+P00507,86,75+,Male,2024-08-11,2024-08-15,4,Fracture,Surgery,Dr. Meera Rao,Orthopedics,292,16608.0,Recovered
+P00508,3,0-17,Female,2023-03-01,2023-03-03,2,Heart Failure,Monitoring,Dr. Vikram Singh,Cardiology,265,14552.0,Recovered
+P00509,20,18-34,Female,2023-02-26,2023-03-03,5,Heart Failure,Monitoring,Dr. Priya Khan,Cardiology,223,28920.0,Recovered
+P00510,72,55-74,Male,2024-12-01,2024-12-09,8,Stroke,Rehabilitation,Dr. Kumar Das,Neurology,237,41972.0,Recovered
+P00511,6,0-17,Male,2023-01-16,2023-01-21,5,Hypertension,Monitoring,Dr. Amit Sharma,Cardiology,344,28872.0,Recovered
+P00512,91,75+,Female,2023-09-16,2023-09-24,8,Heart Failure,Ace Inhibitors,Dr. Vikram Singh,Cardiology,233,44632.0,Recovered
+P00513,28,18-34,Male,2023-09-30,2023-10-02,2,Stroke,Rehabilitation,Dr. Meera Rao,Neurology,344,14079.0,Recovered
+P00514,81,75+,Male,2023-02-06,2023-02-11,5,Uti,Antibiotics,Unknown,Urology,285,17309.0,Recovered
+P00515,86,75+,Male,2024-06-10,2024-07-03,23,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,333,238484.0,Recovered
+P00516,58,55-74,Female,2024-05-18,2024-06-05,18,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,281,90674.0,Recovered
+P00517,75,75+,Male,2023-03-19,2023-03-25,6,Pneumonia,Oxygen Therapy,Dr. Meera Rao,Pulmonology,165,20381.0,Recovered
+P00518,20,18-34,Male,2023-08-31,2023-09-02,2,Covid-19,Steroids,Dr. Vikram Singh,Infectious Diseases,139,7592.0,Recovered
+P00519,28,18-34,Male,2024-10-08,2024-10-20,12,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,205,38293.0,Recovered
+P00520,23,18-34,Male,2024-11-10,2024-11-15,5,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,203,18304.0,Recovered
+P00521,85,75+,Male,2023-04-26,2023-04-30,4,Asthma,Bronchodilators,Dr. Amit Sharma,Pulmonology,234,14017.0,Recovered
+P00522,4,0-17,Male,2023-12-20,2023-12-23,3,Asthma,Steroids,Dr. Rohit Iyer,Pulmonology,195,11801.0,Recovered
+P00523,91,75+,Male,2023-02-22,2023-02-28,6,Heart Failure,Diuretics,Dr. Sanjay Desai,Cardiology,313,33813.0,Recovered
+P00524,10,0-17,Male,2024-04-15,2024-04-21,6,Covid-19,Oxygen Therapy,Dr. Vikram Singh,Infectious Diseases,289,11373.0,Recovered
+P00525,18,18-34,Female,2023-12-01,2023-12-02,1,Sepsis,Broad-Spectrum Antibiotics,Dr. Riya Patel,Critical Care,378,18447.0,Recovered
+P00526,77,75+,Male,2024-01-29,2024-02-03,5,Fracture,Physiotherapy,Dr. Sanjay Desai,Orthopedics,293,19357.0,Recovered
+P00527,1,0-17,Female,2023-12-15,2023-12-20,5,Stroke,Thrombolysis,Dr. Riya Patel,Neurology,264,28826.0,Recovered
+P00528,32,18-34,Male,2024-12-09,2024-12-11,2,Appendicitis,Antibiotics,Unknown,General Surgery,185,14017.0,Recovered
+P00529,45,35-54,Female,2023-10-29,2023-11-01,3,Diabetes Complication,Monitoring,Dr. Meera Rao,Endocrinology,216,8654.0,Recovered
+P00530,90,75+,Male,2024-06-29,2024-07-04,5,Pneumonia,Physiotherapy,Dr. Amit Sharma,Pulmonology,258,17640.0,Recovered
+P00531,84,75+,Male,2023-04-25,2023-04-28,3,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,243,11373.0,Recovered
+P00532,24,18-34,Male,2023-08-05,2023-08-10,5,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,142,57835.0,Recovered
+P00533,76,75+,Female,2023-08-23,2023-09-26,34,Uti,Antibiotics,Dr. Amit Sharma,Urology,232,98945.0,Recovered
+P00534,72,55-74,Male,2023-11-29,2023-12-02,3,Covid-19,Steroids,Dr. Sanjay Desai,Infectious Diseases,386,9083.0,Recovered
+P00535,94,75+,Female,2024-06-28,2024-07-04,6,Appendicitis,Antibiotics,Dr. Vikram Singh,General Surgery,263,31950.0,Recovered
+P00536,88,75+,Female,2023-02-16,2023-02-22,6,Heart Failure,Monitoring,Dr. Vikram Singh,Cardiology,299,34535.0,Transferred
+P00537,26,18-34,Male,2024-02-11,2024-02-19,8,Uti,Hydration,Dr. Amit Sharma,Urology,312,24979.0,Recovered
+P00538,59,55-74,Female,2023-03-20,2023-03-25,5,Heart Failure,Monitoring,Dr. Rohit Iyer,Cardiology,208,28973.0,Recovered
+P00539,53,35-54,Male,2023-07-29,2023-08-03,5,Covid-19,Steroids,Dr. Neha Gupta,Infectious Diseases,261,14358.0,Recovered
+P00540,22,18-34,Male,2024-11-29,2024-12-04,5,Sepsis,Icu Support,Dr. Amit Sharma,Critical Care,147,57722.0,Recovered
+P00541,70,55-74,Male,2023-11-14,2023-11-17,3,Appendicitis,Antibiotics,Dr. Priya Khan,General Surgery,292,18175.0,Recovered
+P00542,98,75+,Female,2023-02-14,2023-02-18,4,Fracture,Casting,Dr. Priya Khan,Orthopedics,264,16339.0,Recovered
+P00543,33,18-34,Female,2024-10-18,2024-10-20,2,Fracture,Surgery,Dr. Sanjay Desai,Orthopedics,390,9733.0,Recovered
+P00544,5,0-17,Male,2023-08-28,2023-09-03,6,Heart Failure,Diuretics,Dr. Meera Rao,Cardiology,234,33966.0,Recovered
+P00545,80,75+,Other,2023-11-23,2023-11-25,2,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,285,7533.0,Recovered
+P00546,22,18-34,Male,2023-08-17,2023-08-21,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Amit Sharma,Critical Care,278,48364.0,Transferred
+P00547,74,55-74,Female,2023-07-15,2023-07-18,3,Asthma,Bronchodilators,Dr. Meera Rao,Pulmonology,312,11297.0,Recovered
+P00548,74,55-74,Female,2024-07-26,2024-07-30,4,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,269,10042.0,Recovered
+P00549,60,55-74,Male,2024-03-30,2024-04-06,7,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,276,38125.0,Recovered
+P00550,35,35-54,Female,2024-10-18,2024-10-21,3,Heart Failure,Monitoring,Dr. Sanjay Desai,Cardiology,282,19900.0,Recovered
+P00551,88,75+,Female,2024-11-09,2024-11-11,2,Pneumonia,Oxygen Therapy,Dr. Riya Patel,Pulmonology,262,8530.0,Recovered
+P00552,83,75+,Male,2024-06-03,2024-06-09,6,Hypertension,Bp Control,Dr. Sanjay Desai,Cardiology,236,34719.0,Recovered
+P00553,62,55-74,Female,2024-07-13,2024-07-17,4,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,94,15531.0,Recovered
+P00554,69,55-74,Female,2024-07-08,2024-07-09,1,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,259,6491.0,Recovered
+P00555,87,75+,Female,2023-03-20,2023-03-23,3,Uti,Hydration,Dr. Rohit Iyer,Urology,329,11484.0,Recovered
+P00556,75,75+,Male,2023-09-25,2023-09-29,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,166,23101.0,Recovered
+P00557,54,35-54,Male,2024-11-30,2024-12-04,4,Uti,Hydration,Dr. Rohit Iyer,Urology,303,13726.0,Recovered
+P00558,56,55-74,Female,2023-03-12,2023-03-15,3,Sepsis,Icu Support,Dr. Priya Khan,Critical Care,178,38035.0,Recovered
+P00559,4,0-17,Male,2023-10-17,2023-10-22,5,Fracture,Physiotherapy,Dr. Sanjay Desai,Orthopedics,327,19267.0,Recovered
+P00560,23,18-34,Female,2024-03-28,2024-03-31,3,Uti,Antibiotics,Dr. Priya Khan,Urology,284,11218.0,Recovered
+P00561,34,18-34,Male,2023-06-14,2023-06-18,4,Appendicitis,Appendectomy,Dr. Rohit Iyer,General Surgery,228,23155.0,Recovered
+P00562,31,18-34,Female,2024-02-20,2024-03-09,18,Covid-19,Oxygen Therapy,Dr. Vikram Singh,Infectious Diseases,315,47055.0,Recovered
+P00563,83,75+,Female,2023-12-22,2023-12-25,3,Heart Failure,Ace Inhibitors,Unknown,Cardiology,278,18600.0,Recovered
+P00564,79,75+,Male,2024-01-06,2024-01-09,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Neha Gupta,Critical Care,210,37870.0,Deceased
+P00565,29,18-34,Male,2024-11-30,2024-12-03,3,Covid-19,Antivirals,Unknown,Infectious Diseases,315,9805.0,Recovered
+P00566,64,55-74,Female,2024-01-28,2024-01-31,3,Appendicitis,Appendectomy,Dr. Neha Gupta,General Surgery,217,17873.0,Recovered
+P00567,24,18-34,Male,2023-06-11,2023-06-14,3,Pneumonia,Oxygen Therapy,Dr. Rohit Iyer,Pulmonology,304,11166.0,Recovered
+P00568,13,0-17,Female,2024-06-03,2024-06-07,4,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,309,22051.0,Recovered
+P00569,81,75+,Female,2024-11-09,2024-11-14,5,Covid-19,Oxygen Therapy,Dr. Anita Joshi,Infectious Diseases,274,14877.0,Recovered
+P00570,60,55-74,Male,2023-03-06,2023-03-09,3,Pneumonia,Oxygen Therapy,Dr. Neha Gupta,Pulmonology,227,11337.0,Recovered
+P00571,13,0-17,Male,2023-04-09,2023-04-16,7,Hypertension,Monitoring,Dr. Sanjay Desai,Cardiology,313,39284.0,Recovered
+P00572,0,0-17,Male,2023-02-23,2023-03-03,8,Heart Failure,Diuretics,Dr. Meera Rao,Cardiology,295,43774.0,Recovered
+P00573,43,35-54,Female,2024-07-11,2024-07-13,2,Stroke,Thrombolysis,Dr. Priya Khan,Neurology,289,12979.0,Recovered
+P00574,49,35-54,Male,2023-06-03,2023-06-08,5,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,131,27610.0,Recovered
+P00575,50,35-54,Male,2024-04-21,2024-04-25,4,Pneumonia,Oxygen Therapy,Dr. Rohit Iyer,Pulmonology,136,14655.0,Recovered
+P00576,65,55-74,Male,2024-08-07,2024-08-11,4,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,169,23859.0,Recovered
+P00577,39,35-54,Female,2024-02-25,2024-03-02,6,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,252,67405.0,Recovered
+P00578,66,55-74,Male,2023-01-20,2023-01-24,4,Uti,Antibiotics,Dr. Meera Rao,Urology,162,13990.0,Recovered
+P00579,91,75+,Female,2023-01-03,2023-01-04,1,Covid-19,Antivirals,Dr. Anita Joshi,Infectious Diseases,275,4879.0,Recovered
+P00580,20,18-34,Male,2023-05-19,2023-05-25,6,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,239,14098.0,Recovered
+P00581,67,55-74,Female,2024-01-16,2024-01-21,5,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,131,14566.0,Recovered
+P00582,9,0-17,Female,2024-12-17,2024-12-21,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Rohit Iyer,Critical Care,227,47750.0,Recovered
+P00583,15,0-17,Female,2023-08-12,2023-08-17,5,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,260,16327.0,Recovered
+P00584,29,18-34,Female,2024-06-10,2024-06-16,6,Uti,Hydration,Dr. Amit Sharma,Urology,362,20304.0,Recovered
+P00585,43,35-54,Male,2024-12-02,2024-12-05,3,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,220,11920.0,Recovered
+P00586,88,75+,Female,2023-09-03,2023-09-05,2,Asthma,Steroids,Dr. Priya Khan,Pulmonology,357,8929.0,Recovered
+P00587,48,35-54,Female,2023-11-17,2023-11-18,1,Hypertension,Bp Control,Dr. Rohit Iyer,Cardiology,208,9611.0,Recovered
+P00588,98,75+,Female,2023-03-17,2023-03-19,2,Appendicitis,Appendectomy,Dr. Rohit Iyer,General Surgery,342,13895.0,Recovered
+P00589,15,0-17,Male,2023-02-21,2023-02-26,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,293,58721.0,Recovered
+P00590,9,0-17,Male,2023-12-31,2024-01-05,5,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,348,27610.0,Recovered
+P00591,61,55-74,Male,2023-12-21,2023-12-22,1,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,313,8982.0,Recovered
+P00592,98,75+,Male,2024-06-04,2024-06-07,3,Appendicitis,Appendectomy,Dr. Riya Patel,General Surgery,371,18115.0,Recovered
+P00593,23,18-34,Male,2024-02-03,2024-02-04,1,Fracture,Physiotherapy,Dr. Neha Gupta,Orthopedics,221,6139.0,Recovered
+P00594,67,55-74,Other,2024-01-08,2024-01-13,5,Asthma,Steroids,Dr. Sanjay Desai,Pulmonology,227,18252.0,Recovered
+P00595,18,18-34,Male,2024-08-22,2024-08-24,2,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,347,8443.0,Recovered
+P00596,94,75+,Male,2023-08-17,2023-08-19,2,Appendicitis,Appendectomy,Dr. Sanjay Desai,General Surgery,256,13729.0,Recovered
+P00597,30,18-34,Female,2023-04-15,2023-04-21,6,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,261,32793.0,Recovered
+P00598,62,55-74,Female,2023-06-17,2023-06-21,4,Covid-19,Steroids,Dr. Sanjay Desai,Infectious Diseases,273,12124.0,Recovered
+P00599,89,75+,Female,2023-01-30,2023-02-05,6,Pneumonia,Oxygen Therapy,Dr. Rohit Iyer,Pulmonology,271,20265.0,Recovered
+P00600,95,75+,Female,2023-04-06,2023-04-10,4,Pneumonia,Antibiotics,Dr. Riya Patel,Pulmonology,230,14771.0,Recovered
+P00601,14,0-17,Female,2024-08-07,2024-08-13,6,Appendicitis,Antibiotics,Dr. Rohit Iyer,General Surgery,149,31353.0,Recovered
+P00602,12,0-17,Female,2023-02-20,2023-02-23,3,Diabetes Complication,Monitoring,Dr. Kumar Das,Endocrinology,207,8329.0,Recovered
+P00603,16,0-17,Other,2024-07-26,2024-07-30,4,Pneumonia,Physiotherapy,Dr. Rohit Iyer,Pulmonology,269,14402.0,Recovered
+P00604,17,0-17,Female,2023-07-08,2023-07-13,5,Uti,Hydration,Dr. Riya Patel,Urology,303,17162.0,Recovered
+P00605,48,35-54,Female,2023-09-18,2023-09-22,4,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,254,23127.0,Recovered
+P00606,99,75+,Male,2023-11-21,2023-11-27,6,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,240,17188.0,Recovered
+P00607,9,0-17,Female,2024-06-26,2024-06-29,3,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,253,7847.0,Recovered
+P00608,36,35-54,Male,2023-04-01,2023-04-04,3,Appendicitis,Appendectomy,Dr. Priya Khan,General Surgery,170,18812.0,Recovered
+P00609,55,55-74,Male,2023-08-28,2023-09-04,7,Stroke,Rehabilitation,Dr. Rohit Iyer,Neurology,130,36849.0,Recovered
+P00610,57,55-74,Other,2023-08-14,2023-08-15,1,Uti,Antibiotics,Dr. Neha Gupta,Urology,201,6744.0,Recovered
+P00611,64,55-74,Female,2023-02-07,2023-02-08,1,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,328,4755.0,Recovered
+P00612,47,35-54,Male,2024-03-06,2024-03-10,4,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,303,24099.0,Recovered
+P00613,28,18-34,Other,2023-05-25,2023-05-28,3,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,218,18426.0,Recovered
+P00614,49,35-54,Male,2023-06-19,2023-06-22,3,Appendicitis,Antibiotics,Dr. Meera Rao,General Surgery,256,17841.0,Recovered
+P00615,87,75+,Female,2023-07-23,2023-07-26,3,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,291,18182.0,Recovered
+P00616,45,35-54,Female,2023-06-09,2023-06-14,5,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,277,29249.0,Recovered
+P00617,35,35-54,Female,2024-09-22,2024-09-26,4,Pneumonia,Physiotherapy,Dr. Riya Patel,Pulmonology,239,14721.0,Recovered
+P00618,3,0-17,Male,2023-05-27,2023-06-04,8,Asthma,Steroids,Dr. Kumar Das,Pulmonology,412,26385.0,Recovered
+P00619,15,0-17,Female,2024-09-09,2024-09-12,3,Hypertension,Bp Control,Unknown,Cardiology,103,19342.0,Recovered
+P00620,8,0-17,Female,2024-07-19,2024-07-24,5,Hypertension,Monitoring,Dr. Riya Patel,Cardiology,214,28163.0,Recovered
+P00621,47,35-54,Female,2023-02-16,2023-02-20,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Amit Sharma,Critical Care,305,47267.0,Recovered
+P00622,53,35-54,Male,2023-08-23,2023-08-27,4,Heart Failure,Monitoring,Dr. Sanjay Desai,Cardiology,152,23825.0,Recovered
+P00623,20,18-34,Female,2023-06-20,2023-06-22,2,Pneumonia,Antibiotics,Dr. Vikram Singh,Pulmonology,286,8011.0,Recovered
+P00624,52,35-54,Male,2024-11-23,2024-11-25,2,Fracture,Physiotherapy,Dr. Riya Patel,Orthopedics,175,10380.0,Recovered
+P00625,57,55-74,Male,2024-05-06,2024-05-09,3,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,256,18080.0,Recovered
+P00626,90,75+,Female,2023-06-25,2023-06-29,4,Pneumonia,Physiotherapy,Dr. Sanjay Desai,Pulmonology,150,14277.0,Recovered
+P00627,28,18-34,Other,2024-03-26,2024-03-29,3,Hypertension,Monitoring,Dr. Riya Patel,Cardiology,236,19357.0,Recovered
+P00628,76,75+,Female,2024-01-31,2024-02-04,4,Appendicitis,Antibiotics,Dr. Vikram Singh,General Surgery,100,22656.0,Recovered
+P00629,9,0-17,Male,2024-07-06,2024-07-10,4,Asthma,Bronchodilators,Unknown,Pulmonology,350,14050.0,Recovered
+P00630,68,55-74,Female,2024-07-26,2024-07-29,3,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,288,17451.0,Recovered
+P00631,33,18-34,Other,2023-05-01,2023-05-05,4,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,265,23552.0,Recovered
+P00632,41,35-54,Male,2024-10-04,2024-10-12,8,Covid-19,Antivirals,Dr. Priya Khan,Infectious Diseases,205,21470.0,Recovered
+P00633,21,18-34,Female,2024-02-20,2024-02-21,1,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,273,9189.0,Recovered
+P00634,96,75+,Male,2023-01-20,2023-01-22,2,Covid-19,Oxygen Therapy,Dr. Kumar Das,Infectious Diseases,292,6937.0,Recovered
+P00635,50,35-54,Female,2024-03-15,2024-03-19,4,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,332,23462.0,Recovered
+P00636,98,75+,Female,2024-08-05,2024-08-09,4,Uti,Hydration,Dr. Rohit Iyer,Urology,243,14011.0,Recovered
+P00637,13,0-17,Female,2024-08-14,2024-08-16,2,Covid-19,Antivirals,Dr. Vikram Singh,Infectious Diseases,248,7580.0,Recovered
+P00638,96,75+,Female,2024-10-22,2024-10-27,5,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,184,29257.0,Recovered
+P00639,4,0-17,Female,2024-11-19,2024-11-22,3,Covid-19,Steroids,Dr. Amit Sharma,Infectious Diseases,306,9089.0,Recovered
+P00640,94,75+,Female,2023-05-26,2023-06-05,10,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,212,54136.0,Recovered
+P00641,32,18-34,Female,2024-07-15,2024-07-18,3,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,252,37712.0,Recovered
+P00642,68,55-74,Female,2023-01-23,2023-01-25,2,Heart Failure,Monitoring,Dr. Priya Khan,Cardiology,241,13790.0,Recovered
+P00643,85,75+,Female,2024-12-27,2024-12-31,4,Appendicitis,Appendectomy,Dr. Neha Gupta,General Surgery,328,22645.0,Recovered
+P00644,11,0-17,Female,2023-04-05,2023-04-07,2,Fracture,Surgery,Dr. Anita Joshi,Orthopedics,250,10666.0,Recovered
+P00645,88,75+,Male,2023-08-01,2023-08-09,8,Stroke,Thrombolysis,Dr. Riya Patel,Neurology,389,42901.0,Recovered
+P00646,92,75+,Female,2023-11-27,2023-12-02,5,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,189,58111.0,Recovered
+P00647,89,75+,Female,2024-04-25,2024-04-30,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,342,58160.0,Recovered
+P00648,94,75+,Male,2023-03-18,2023-03-21,3,Covid-19,Antivirals,Dr. Meera Rao,Infectious Diseases,265,9680.0,Recovered
+P00649,18,18-34,Male,2023-01-22,2023-01-25,3,Diabetes Complication,Monitoring,Dr. Rohit Iyer,Endocrinology,332,7917.0,Recovered
+P00650,74,55-74,Male,2023-12-02,2023-12-07,5,Diabetes Complication,Monitoring,Dr. Kumar Das,Endocrinology,266,11835.0,Transferred
+P00651,49,35-54,Female,2024-05-06,2024-05-08,2,Covid-19,Antivirals,Dr. Amit Sharma,Infectious Diseases,278,6764.0,Recovered
+P00652,91,75+,Female,2023-06-19,2023-06-25,6,Hypertension,Bp Control,Dr. Sanjay Desai,Cardiology,307,34635.0,Recovered
+P00653,31,18-34,Female,2024-05-13,2024-05-17,4,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,315,23115.0,Recovered
+P00654,12,0-17,Female,2024-12-10,2024-12-12,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Sanjay Desai,Critical Care,121,27928.0,Recovered
+P00655,20,18-34,Female,2024-01-16,2024-01-20,4,Diabetes Complication,Insulin Adjustment,Dr. Neha Gupta,Endocrinology,220,9693.0,Recovered
+P00656,15,0-17,Female,2024-02-29,2024-03-05,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,221,57263.0,Recovered
+P00657,17,0-17,Male,2024-07-21,2024-07-25,4,Heart Failure,Diuretics,Dr. Amit Sharma,Cardiology,253,24305.0,Recovered
+P00658,53,35-54,Male,2023-03-17,2023-03-20,3,Fracture,Casting,Dr. Rohit Iyer,Orthopedics,169,12903.0,Recovered
+P00659,62,55-74,Female,2023-03-27,2023-04-01,5,Uti,Antibiotics,Dr. Kumar Das,Urology,275,17583.0,Recovered
+P00660,15,0-17,Male,2024-11-06,2024-11-09,3,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,262,12566.0,Recovered
+P00661,94,75+,Male,2024-01-16,2024-01-19,3,Uti,Antibiotics,Dr. Meera Rao,Urology,332,11647.0,Recovered
+P00662,39,35-54,Female,2024-12-06,2024-12-07,1,Asthma,Bronchodilators,Dr. Rohit Iyer,Pulmonology,217,4832.0,Recovered
+P00663,25,18-34,Male,2023-01-17,2023-01-23,6,Hypertension,Bp Control,Dr. Kumar Das,Cardiology,217,34398.0,Recovered
+P00664,44,35-54,Female,2023-10-11,2023-10-17,6,Asthma,Bronchodilators,Dr. Priya Khan,Pulmonology,213,20486.0,Recovered
+P00665,79,75+,Female,2024-12-27,2024-12-31,4,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,332,24277.0,Recovered
+P00666,44,35-54,Male,2024-04-25,2024-04-27,2,Pneumonia,Antibiotics,Dr. Vikram Singh,Pulmonology,311,7782.0,Recovered
+P00667,39,35-54,Male,2023-05-22,2023-05-25,3,Pneumonia,Physiotherapy,Dr. Kumar Das,Pulmonology,231,11096.0,Transferred
+P00668,78,75+,Male,2023-05-31,2023-06-03,3,Uti,Antibiotics,Dr. Kumar Das,Urology,287,11955.0,Recovered
+P00669,18,18-34,Male,2024-04-07,2024-04-16,9,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,288,20076.0,Recovered
+P00670,93,75+,Female,2024-10-31,2024-11-01,1,Hypertension,Monitoring,Dr. Meera Rao,Cardiology,186,8118.0,Recovered
+P00671,76,75+,Female,2023-05-07,2023-05-12,5,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,310,27562.0,Recovered
+P00672,29,18-34,Male,2024-12-16,2024-12-21,5,Uti,Hydration,Dr. Vikram Singh,Urology,196,17536.0,Recovered
+P00673,16,0-17,Female,2023-09-06,2023-09-09,3,Pneumonia,Antibiotics,Dr. Sanjay Desai,Pulmonology,259,11294.0,Recovered
+P00674,99,75+,Male,2023-05-08,2023-05-16,8,Diabetes Complication,Monitoring,Dr. Sanjay Desai,Endocrinology,321,17828.0,Recovered
+P00675,71,55-74,Female,2024-04-10,2024-04-18,8,Fracture,Casting,Dr. Meera Rao,Orthopedics,266,28877.0,Recovered
+P00676,94,75+,Male,2024-03-31,2024-04-05,5,Heart Failure,Ace Inhibitors,Dr. Amit Sharma,Cardiology,183,28754.0,Recovered
+P00677,85,75+,Female,2023-11-20,2023-11-24,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,214,21518.0,Recovered
+P00678,97,75+,Male,2024-07-31,2024-08-06,6,Appendicitis,Appendectomy,Dr. Amit Sharma,General Surgery,227,31270.0,Recovered
+P00679,79,75+,Male,2023-04-07,2023-04-11,4,Fracture,Casting,Dr. Neha Gupta,Orthopedics,185,16390.0,Recovered
+P00680,2,0-17,Male,2024-09-28,2024-10-01,3,Uti,Hydration,Dr. Anita Joshi,Urology,279,11338.0,Recovered
+P00681,9,0-17,Male,2023-08-16,2023-08-23,7,Heart Failure,Diuretics,Dr. Riya Patel,Cardiology,209,38738.0,Recovered
+P00682,17,0-17,Other,2024-08-19,2024-08-22,3,Uti,Hydration,Dr. Meera Rao,Urology,294,11048.0,Recovered
+P00683,4,0-17,Male,2023-06-29,2023-07-01,2,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,141,6165.0,Recovered
+P00684,60,55-74,Female,2024-10-07,2024-10-10,3,Appendicitis,Antibiotics,Dr. Rohit Iyer,General Surgery,171,17662.0,Recovered
+P00685,3,0-17,Male,2024-07-13,2024-07-17,4,Heart Failure,Ace Inhibitors,Dr. Rohit Iyer,Cardiology,205,25328.0,Recovered
+P00686,40,35-54,Female,2023-08-10,2023-08-12,2,Stroke,Rehabilitation,Dr. Meera Rao,Neurology,281,13551.0,Recovered
+P00687,18,18-34,Male,2024-10-07,2024-10-10,3,Stroke,Thrombolysis,Dr. Vikram Singh,Neurology,209,18020.0,Transferred
+P00688,70,55-74,Male,2023-05-02,2023-05-03,1,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,207,4181.0,Recovered
+P00689,79,75+,Female,2024-12-17,2024-12-19,2,Fracture,Physiotherapy,Dr. Riya Patel,Orthopedics,289,9831.0,Recovered
+P00690,89,75+,Male,2024-03-23,2024-04-01,9,Pneumonia,Antibiotics,Dr. Meera Rao,Pulmonology,220,29166.0,Recovered
+P00691,89,75+,Female,2023-08-22,2023-08-26,4,Stroke,Rehabilitation,Dr. Meera Rao,Neurology,129,18753.0,Recovered
+P00692,95,75+,Female,2023-02-28,2023-03-24,24,Sepsis,Broad-Spectrum Antibiotics,Dr. Neha Gupta,Critical Care,145,247540.0,Recovered
+P00693,36,35-54,Female,2024-03-22,2024-03-27,5,Diabetes Complication,Insulin Adjustment,Dr. Kumar Das,Endocrinology,227,11592.0,Recovered
+P00694,30,18-34,Male,2024-10-13,2024-10-25,12,Appendicitis,Antibiotics,Dr. Riya Patel,General Surgery,222,59721.0,Recovered
+P00695,53,35-54,Female,2024-12-15,2024-12-18,3,Pneumonia,Oxygen Therapy,Dr. Riya Patel,Pulmonology,138,10794.0,Recovered
+P00696,44,35-54,Male,2024-10-08,2024-10-13,5,Asthma,Bronchodilators,Dr. Riya Patel,Pulmonology,280,17505.0,Recovered
+P00697,91,75+,Male,2023-02-06,2023-02-10,4,Sepsis,Icu Support,Dr. Vikram Singh,Critical Care,208,48410.0,Recovered
+P00698,46,35-54,Male,2023-09-14,2023-09-16,2,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,54,6597.0,Recovered
+P00699,12,0-17,Female,2023-11-19,2023-11-25,6,Uti,Antibiotics,Dr. Sanjay Desai,Urology,233,19099.0,Recovered
+P00700,82,75+,Female,2024-10-25,2024-11-04,10,Covid-19,Oxygen Therapy,Dr. Riya Patel,Infectious Diseases,284,27458.0,Recovered
+P00701,90,75+,Male,2024-12-30,2025-01-03,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,259,23078.0,Recovered
+P00702,69,55-74,Male,2024-07-06,2024-07-08,2,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,228,9649.0,Recovered
+P00703,84,75+,Female,2023-12-14,2023-12-18,4,Diabetes Complication,Insulin Adjustment,Dr. Riya Patel,Endocrinology,338,9689.0,Recovered
+P00704,29,18-34,Male,2024-10-12,2024-10-16,4,Pneumonia,Antibiotics,Dr. Amit Sharma,Pulmonology,223,14825.0,Recovered
+P00705,43,35-54,Female,2023-03-18,2023-03-21,3,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,305,18943.0,Recovered
+P00706,39,35-54,Male,2023-10-31,2023-12-01,31,Asthma,Bronchodilators,Unknown,Pulmonology,122,95658.0,Transferred
+P00707,34,18-34,Male,2024-08-24,2024-08-27,3,Asthma,Steroids,Dr. Priya Khan,Pulmonology,155,11728.0,Recovered
+P00708,69,55-74,Male,2024-04-28,2024-04-30,2,Diabetes Complication,Monitoring,Dr. Kumar Das,Endocrinology,87,5953.0,Recovered
+P00709,99,75+,Male,2024-04-19,2024-04-22,3,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,283,17231.0,Recovered
+P00710,13,0-17,Female,2024-10-15,2024-10-22,7,Uti,Hydration,Dr. Amit Sharma,Urology,225,22836.0,Recovered
+P00711,44,35-54,Female,2024-05-11,2024-05-15,4,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,306,23088.0,Recovered
+P00712,46,35-54,Male,2023-03-18,2023-03-20,2,Diabetes Complication,Monitoring,Dr. Amit Sharma,Endocrinology,273,5735.0,Recovered
+P00713,75,75+,Male,2024-07-26,2024-07-29,3,Asthma,Steroids,Dr. Kumar Das,Pulmonology,250,11571.0,Recovered
+P00714,2,0-17,Male,2023-04-05,2023-04-09,4,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,235,24233.0,Recovered
+P00715,49,35-54,Male,2023-06-19,2023-06-20,1,Asthma,Steroids,Dr. Priya Khan,Pulmonology,146,5440.0,Recovered
+P00716,76,75+,Male,2024-07-27,2024-08-01,5,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,270,58045.0,Recovered
+P00717,34,18-34,Female,2024-02-29,2024-03-02,2,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,312,14265.0,Recovered
+P00718,87,75+,Female,2023-01-07,2023-01-14,7,Asthma,Bronchodilators,Dr. Rohit Iyer,Pulmonology,131,23933.0,Recovered
+P00719,86,75+,Female,2023-11-05,2023-11-10,5,Pneumonia,Oxygen Therapy,Dr. Amit Sharma,Pulmonology,189,17186.0,Deceased
+P00720,40,35-54,Male,2023-09-12,2023-09-14,2,Diabetes Complication,Insulin Adjustment,Dr. Neha Gupta,Endocrinology,220,5488.0,Recovered
+P00721,25,18-34,Male,2023-05-11,2023-05-17,6,Fracture,Casting,Dr. Rohit Iyer,Orthopedics,299,22603.0,Recovered
+P00722,74,55-74,Female,2024-06-04,2024-06-06,2,Asthma,Steroids,Dr. Riya Patel,Pulmonology,292,8773.0,Recovered
+P00723,88,75+,Male,2024-02-03,2024-02-05,2,Heart Failure,Monitoring,Dr. Rohit Iyer,Cardiology,201,13096.0,Recovered
+P00724,18,18-34,Male,2024-08-06,2024-08-12,6,Sepsis,Icu Support,Dr. Priya Khan,Critical Care,313,68215.0,Recovered
+P00725,88,75+,Female,2023-08-19,2023-08-26,7,Sepsis,Icu Support,Dr. Amit Sharma,Critical Care,310,78006.0,Recovered
+P00726,23,18-34,Male,2023-04-11,2023-04-17,6,Heart Failure,Ace Inhibitors,Dr. Anita Joshi,Cardiology,189,34000.0,Recovered
+P00727,3,0-17,Female,2024-04-18,2024-04-22,4,Appendicitis,Antibiotics,Dr. Kumar Das,General Surgery,369,23416.0,Recovered
+P00728,14,0-17,Female,2023-07-29,2023-08-02,4,Asthma,Steroids,Dr. Rohit Iyer,Pulmonology,198,14289.0,Recovered
+P00729,27,18-34,Male,2024-08-21,2024-08-22,1,Fracture,Casting,Dr. Anita Joshi,Orthopedics,234,7165.0,Recovered
+P00730,82,75+,Male,2023-04-11,2023-04-13,2,Uti,Antibiotics,Dr. Meera Rao,Urology,182,7433.0,Recovered
+P00731,85,75+,Male,2024-04-25,2024-04-29,4,Uti,Antibiotics,Dr. Priya Khan,Urology,212,14649.0,Recovered
+P00732,98,75+,Female,2024-06-28,2024-06-29,1,Appendicitis,Antibiotics,Unknown,General Surgery,282,9474.0,Recovered
+P00733,96,75+,Female,2024-11-14,2024-11-18,4,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,198,48422.0,Recovered
+P00734,71,55-74,Male,2024-08-12,2024-08-14,2,Covid-19,Steroids,Dr. Anita Joshi,Infectious Diseases,161,8102.0,Recovered
+P00735,1,0-17,Female,2024-04-04,2024-04-06,2,Diabetes Complication,Monitoring,Dr. Riya Patel,Endocrinology,263,5581.0,Recovered
+P00736,80,75+,Male,2024-04-19,2024-04-23,4,Heart Failure,Ace Inhibitors,Dr. Riya Patel,Cardiology,258,23907.0,Recovered
+P00737,25,18-34,Female,2024-02-09,2024-02-12,3,Uti,Antibiotics,Dr. Riya Patel,Urology,273,10575.0,Recovered
+P00738,5,0-17,Male,2023-09-18,2023-09-21,3,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,314,17958.0,Recovered
+P00739,7,0-17,Male,2024-09-09,2024-09-13,4,Fracture,Surgery,Dr. Anita Joshi,Orthopedics,220,17157.0,Recovered
+P00740,65,55-74,Female,2023-07-29,2023-08-01,3,Uti,Hydration,Dr. Sanjay Desai,Urology,232,11975.0,Recovered
+P00741,39,35-54,Male,2023-07-27,2023-07-31,4,Covid-19,Steroids,Dr. Kumar Das,Infectious Diseases,142,12741.0,Recovered
+P00742,66,55-74,Male,2024-06-19,2024-06-21,2,Fracture,Surgery,Dr. Riya Patel,Orthopedics,310,9235.0,Recovered
+P00743,69,55-74,Female,2023-11-05,2023-11-10,5,Hypertension,Bp Control,Dr. Anita Joshi,Cardiology,296,23946.5,Recovered
+P00744,12,0-17,Female,2024-04-22,2024-05-16,24,Pneumonia,Antibiotics,Dr. Neha Gupta,Pulmonology,253,73821.0,Transferred
+P00745,31,18-34,Male,2023-02-06,2023-02-10,4,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,360,21818.0,Recovered
+P00746,93,75+,Female,2023-02-15,2023-02-16,1,Hypertension,Bp Control,Dr. Amit Sharma,Cardiology,343,8025.0,Recovered
+P00747,86,75+,Female,2024-05-25,2024-05-27,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Neha Gupta,Critical Care,182,27257.0,Recovered
+P00748,88,75+,Male,2023-01-16,2023-01-17,1,Hypertension,Monitoring,Dr. Priya Khan,Cardiology,134,8318.0,Recovered
+P00749,93,75+,Female,2024-08-29,2024-09-02,4,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,129,24156.0,Recovered
+P00750,3,0-17,Female,2024-01-06,2024-01-10,4,Appendicitis,Antibiotics,Dr. Riya Patel,General Surgery,235,22615.0,Transferred
+P00751,11,0-17,Male,2023-05-27,2023-06-02,6,Covid-19,Steroids,Dr. Kumar Das,Infectious Diseases,225,17694.0,Recovered
+P00752,12,0-17,Male,2023-08-14,2023-08-16,2,Fracture,Physiotherapy,Dr. Riya Patel,Orthopedics,260,9693.0,Recovered
+P00753,78,75+,Other,2024-04-27,2024-04-30,3,Heart Failure,Ace Inhibitors,Dr. Priya Khan,Cardiology,251,19138.0,Recovered
+P00754,61,55-74,Female,2023-10-07,2023-10-10,3,Pneumonia,Oxygen Therapy,Dr. Priya Khan,Pulmonology,211,10931.0,Recovered
+P00755,14,0-17,Female,2023-07-20,2023-07-26,6,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,308,34800.0,Recovered
+P00756,92,75+,Male,2024-05-03,2024-05-09,6,Pneumonia,Antibiotics,Dr. Meera Rao,Pulmonology,156,21190.0,Recovered
+P00757,50,35-54,Female,2024-01-08,2024-01-11,3,Asthma,Bronchodilators,Dr. Amit Sharma,Pulmonology,258,10557.0,Recovered
+P00758,16,0-17,Male,2023-06-29,2023-07-06,7,Uti,Hydration,Dr. Anita Joshi,Urology,412,22569.0,Recovered
+P00759,77,75+,Male,2024-08-17,2024-08-18,1,Sepsis,Icu Support,Dr. Sanjay Desai,Critical Care,256,17852.0,Recovered
+P00760,50,35-54,Male,2023-03-09,2023-03-13,4,Sepsis,Icu Support,Dr. Kumar Das,Critical Care,137,47542.0,Recovered
+P00761,18,18-34,Female,2024-06-15,2024-06-21,6,Fracture,Surgery,Dr. Amit Sharma,Orthopedics,141,21879.0,Recovered
+P00762,53,35-54,Male,2024-04-20,2024-04-24,4,Heart Failure,Monitoring,Dr. Sanjay Desai,Cardiology,285,24049.0,Recovered
+P00763,22,18-34,Male,2024-08-21,2024-08-28,7,Hypertension,Monitoring,Dr. Priya Khan,Cardiology,308,38817.0,Recovered
+P00764,28,18-34,Male,2024-01-06,2024-01-12,6,Pneumonia,Physiotherapy,Dr. Amit Sharma,Pulmonology,320,20113.0,Recovered
+P00765,4,0-17,Female,2023-04-28,2023-05-02,4,Uti,Antibiotics,Dr. Priya Khan,Urology,257,15148.0,Recovered
+P00766,59,55-74,Female,2023-05-30,2023-06-04,5,Asthma,Steroids,Dr. Neha Gupta,Pulmonology,268,17321.0,Recovered
+P00767,59,55-74,Female,2023-04-03,2023-04-05,2,Sepsis,Icu Support,Dr. Vikram Singh,Critical Care,127,48307.0,Recovered
+P00768,54,35-54,Female,2023-09-10,2023-09-18,8,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,258,18836.0,Recovered
+P00769,45,35-54,Female,2024-11-13,2024-11-18,5,Heart Failure,Ace Inhibitors,Dr. Amit Sharma,Cardiology,354,29042.0,Recovered
+P00770,94,75+,Female,2023-08-17,2023-08-21,4,Fracture,Surgery,Dr. Kumar Das,Orthopedics,246,16275.0,Recovered
+P00771,4,0-17,Male,2023-05-04,2023-05-12,8,Diabetes Complication,Insulin Adjustment,Dr. Sanjay Desai,Endocrinology,190,17534.0,Recovered
+P00772,27,18-34,Female,2023-09-30,2023-10-02,2,Uti,Hydration,Dr. Meera Rao,Urology,242,8607.0,Recovered
+P00773,30,18-34,Male,2024-10-27,2024-10-31,4,Asthma,Bronchodilators,Dr. Kumar Das,Pulmonology,276,14700.0,Recovered
+P00774,11,0-17,Female,2023-06-25,2023-07-02,7,Hypertension,Monitoring,Dr. Anita Joshi,Cardiology,311,39326.0,Recovered
+P00775,68,55-74,Female,2024-02-01,2024-02-24,23,Pneumonia,Physiotherapy,Dr. Neha Gupta,Pulmonology,219,70546.0,Recovered
+P00776,53,35-54,Male,2024-12-02,2024-12-07,5,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,152,28028.0,Recovered
+P00777,2,0-17,Male,2023-06-05,2023-06-06,1,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,272,3480.0,Recovered
+P00778,26,18-34,Female,2023-01-13,2023-01-16,3,Hypertension,Monitoring,Dr. Riya Patel,Cardiology,213,18596.0,Recovered
+P00779,90,75+,Male,2024-09-27,2024-10-04,7,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,228,24240.0,Recovered
+P00780,79,75+,Female,2024-12-23,2024-12-25,2,Heart Failure,Ace Inhibitors,Dr. Sanjay Desai,Cardiology,263,13027.0,Recovered
+P00781,54,35-54,Male,2024-07-21,2024-07-24,3,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,288,18542.0,Recovered
+P00782,47,35-54,Female,2023-02-05,2023-02-13,8,Sepsis,Icu Support,Dr. Anita Joshi,Critical Care,245,88009.0,Recovered
+P00783,75,75+,Male,2024-07-01,2024-07-04,3,Hypertension,Bp Control,Unknown,Cardiology,247,19794.0,Recovered
+P00784,6,0-17,Male,2024-10-01,2024-10-09,8,Hypertension,Bp Control,Dr. Rohit Iyer,Cardiology,248,45207.0,Transferred
+P00785,2,0-17,Male,2024-08-15,2024-08-20,5,Stroke,Rehabilitation,Dr. Vikram Singh,Neurology,182,28246.0,Recovered
+P00786,92,75+,Female,2023-04-27,2023-05-03,6,Asthma,Bronchodilators,Dr. Riya Patel,Pulmonology,306,20629.0,Recovered
+P00787,15,0-17,Male,2024-04-03,2024-04-06,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Kumar Das,Critical Care,231,38157.0,Recovered
+P00788,48,35-54,Male,2024-12-23,2024-12-26,3,Sepsis,Broad-Spectrum Antibiotics,Unknown,Critical Care,214,38363.0,Recovered
+P00789,91,75+,Female,2023-06-17,2023-06-21,4,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,219,22563.0,Recovered
+P00790,79,75+,Male,2024-10-11,2024-10-13,2,Hypertension,Bp Control,Dr. Kumar Das,Cardiology,264,13624.0,Recovered
+P00791,26,18-34,Female,2024-05-30,2024-05-31,1,Stroke,Thrombolysis,Dr. Rohit Iyer,Neurology,280,23288.5,Recovered
+P00792,9,0-17,Male,2023-12-16,2023-12-19,3,Stroke,Thrombolysis,Dr. Sanjay Desai,Neurology,319,18991.0,Recovered
+P00793,28,18-34,Female,2023-09-26,2023-10-02,6,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,296,33759.0,Recovered
+P00794,33,18-34,Male,2024-03-19,2024-03-22,3,Stroke,Thrombolysis,Dr. Anita Joshi,Neurology,195,18979.0,Recovered
+P00795,47,35-54,Male,2023-01-06,2023-01-08,2,Stroke,Rehabilitation,Dr. Amit Sharma,Neurology,191,14390.0,Recovered
+P00796,35,35-54,Female,2023-08-02,2023-08-05,3,Diabetes Complication,Monitoring,Dr. Amit Sharma,Endocrinology,272,8418.0,Recovered
+P00797,89,75+,Male,2023-05-12,2023-05-21,9,Fracture,Physiotherapy,Dr. Vikram Singh,Orthopedics,216,32144.0,Recovered
+P00798,23,18-34,Male,2023-11-25,2023-11-28,3,Pneumonia,Oxygen Therapy,Dr. Riya Patel,Pulmonology,234,11113.0,Recovered
+P00799,87,75+,Female,2023-10-28,2023-11-01,4,Covid-19,Steroids,Dr. Riya Patel,Infectious Diseases,255,11454.0,Recovered
+P00800,11,0-17,Female,2023-10-21,2023-10-22,1,Covid-19,Oxygen Therapy,Dr. Riya Patel,Infectious Diseases,210,4765.0,Deceased
+P00801,47,35-54,Male,2024-12-21,2024-12-26,5,Uti,Hydration,Dr. Priya Khan,Urology,286,17076.0,Recovered
+P00802,52,35-54,Male,2024-08-11,2024-08-15,4,Heart Failure,Monitoring,Dr. Neha Gupta,Cardiology,310,23799.0,Recovered
+P00803,74,55-74,Female,2023-10-31,2023-11-03,3,Appendicitis,Antibiotics,Unknown,General Surgery,205,17845.0,Recovered
+P00804,85,75+,Male,2024-06-14,2024-06-20,6,Diabetes Complication,Monitoring,Unknown,Endocrinology,294,14839.0,Recovered
+P00805,7,0-17,Female,2023-09-25,2023-10-01,6,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,241,33738.0,Recovered
+P00806,17,0-17,Male,2023-10-13,2023-10-14,1,Covid-19,Antivirals,Dr. Anita Joshi,Infectious Diseases,181,4776.0,Recovered
+P00807,17,0-17,Male,2024-07-25,2024-07-29,4,Diabetes Complication,Insulin Adjustment,Dr. Anita Joshi,Endocrinology,211,10741.0,Recovered
+P00808,29,18-34,Female,2024-01-11,2024-01-15,4,Pneumonia,Antibiotics,Dr. Meera Rao,Pulmonology,313,14270.0,Recovered
+P00809,51,35-54,Male,2023-01-08,2023-01-11,3,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,275,19003.0,Recovered
+P00810,23,18-34,Male,2023-10-04,2023-10-10,6,Diabetes Complication,Insulin Adjustment,Dr. Anita Joshi,Endocrinology,278,14433.0,Recovered
+P00811,44,35-54,Male,2024-08-01,2024-08-08,7,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,232,37216.0,Recovered
+P00812,28,18-34,Female,2023-02-22,2023-03-04,10,Uti,Antibiotics,Dr. Neha Gupta,Urology,229,31450.0,Recovered
+P00813,77,75+,Male,2023-02-13,2023-02-18,5,Pneumonia,Physiotherapy,Dr. Neha Gupta,Pulmonology,336,16586.0,Recovered
+P00814,29,18-34,Female,2024-02-08,2024-02-10,2,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,263,9148.0,Recovered
+P00815,81,75+,Male,2023-06-24,2023-07-01,7,Fracture,Surgery,Dr. Neha Gupta,Orthopedics,263,26735.0,Recovered
+P00816,32,18-34,Male,2024-09-19,2024-09-23,4,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,294,13493.0,Recovered
+P00817,8,0-17,Female,2024-10-01,2024-10-04,3,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,281,11098.0,Recovered
+P00818,28,18-34,Female,2024-09-13,2024-09-16,3,Pneumonia,Oxygen Therapy,Dr. Sanjay Desai,Pulmonology,147,11344.0,Recovered
+P00819,63,55-74,Female,2023-10-02,2023-10-04,2,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,182,10343.0,Recovered
+P00820,53,35-54,Female,2024-01-18,2024-01-20,2,Pneumonia,Antibiotics,Unknown,Pulmonology,344,8477.0,Recovered
+P00821,75,75+,Male,2023-09-14,2023-09-17,3,Uti,Antibiotics,Unknown,Urology,325,11825.0,Recovered
+P00822,7,0-17,Female,2023-05-14,2023-05-19,5,Appendicitis,Antibiotics,Dr. Anita Joshi,General Surgery,326,28486.0,Recovered
+P00823,99,75+,Male,2024-03-03,2024-03-04,1,Uti,Antibiotics,Dr. Rohit Iyer,Urology,266,5452.0,Recovered
+P00824,71,55-74,Female,2023-09-30,2023-10-03,3,Fracture,Casting,Dr. Meera Rao,Orthopedics,291,13300.0,Recovered
+P00825,4,0-17,Male,2024-11-06,2024-11-11,5,Uti,Antibiotics,Dr. Anita Joshi,Urology,284,16248.0,Recovered
+P00826,56,55-74,Male,2023-05-22,2023-05-23,1,Asthma,Bronchodilators,Dr. Neha Gupta,Pulmonology,269,5732.0,Recovered
+P00827,89,75+,Male,2023-08-16,2023-09-13,28,Sepsis,Icu Support,Dr. Riya Patel,Critical Care,299,287545.0,Recovered
+P00828,50,35-54,Female,2023-06-23,2023-06-26,3,Appendicitis,Antibiotics,Dr. Rohit Iyer,General Surgery,322,17123.0,Recovered
+P00829,70,55-74,Female,2024-10-27,2024-10-30,3,Appendicitis,Antibiotics,Unknown,General Surgery,135,18344.0,Recovered
+P00830,32,18-34,Female,2023-09-01,2023-09-05,4,Heart Failure,Ace Inhibitors,Dr. Vikram Singh,Cardiology,207,24320.0,Recovered
+P00831,37,35-54,Male,2024-12-06,2024-12-11,5,Heart Failure,Monitoring,Dr. Priya Khan,Cardiology,280,29034.0,Recovered
+P00832,50,35-54,Female,2024-04-18,2024-04-21,3,Fracture,Surgery,Dr. Meera Rao,Orthopedics,296,13430.0,Deceased
+P00833,92,75+,Female,2024-06-23,2024-06-29,6,Heart Failure,Ace Inhibitors,Dr. Riya Patel,Cardiology,264,34368.0,Recovered
+P00834,95,75+,Male,2023-09-30,2023-10-03,3,Sepsis,Icu Support,Dr. Neha Gupta,Critical Care,241,38249.0,Recovered
+P00835,47,35-54,Male,2023-04-23,2023-04-26,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Vikram Singh,Critical Care,236,37841.0,Recovered
+P00836,86,75+,Male,2023-01-30,2023-02-03,4,Fracture,Casting,Dr. Rohit Iyer,Orthopedics,240,15876.0,Recovered
+P00837,33,18-34,Female,2024-01-21,2024-01-27,6,Appendicitis,Appendectomy,Dr. Sanjay Desai,General Surgery,284,31800.0,Transferred
+P00838,81,75+,Female,2024-10-07,2024-10-08,1,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,287,9750.0,Recovered
+P00839,45,35-54,Male,2023-03-16,2023-03-24,8,Fracture,Surgery,Dr. Kumar Das,Orthopedics,358,29534.0,Recovered
+P00840,16,0-17,Female,2024-11-18,2024-11-22,4,Diabetes Complication,Insulin Adjustment,Dr. Vikram Singh,Endocrinology,248,10330.0,Recovered
+P00841,16,0-17,Female,2024-04-29,2024-05-04,5,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,274,19415.0,Recovered
+P00842,67,55-74,Female,2024-08-09,2024-08-12,3,Fracture,Casting,Dr. Rohit Iyer,Orthopedics,338,12081.0,Recovered
+P00843,93,75+,Female,2024-10-09,2024-10-11,2,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,186,13983.0,Recovered
+P00844,21,18-34,Male,2024-09-12,2024-09-20,8,Fracture,Surgery,Dr. Neha Gupta,Orthopedics,216,30236.0,Recovered
+P00845,34,18-34,Male,2023-11-03,2023-11-10,7,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,131,37944.0,Recovered
+P00846,54,35-54,Female,2023-03-13,2023-03-21,8,Fracture,Casting,Dr. Anita Joshi,Orthopedics,199,28916.0,Recovered
+P00847,33,18-34,Male,2024-10-04,2024-10-06,2,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,306,28385.0,Recovered
+P00848,5,0-17,Female,2023-10-01,2023-10-02,1,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,185,3337.0,Recovered
+P00849,26,18-34,Female,2023-04-07,2023-04-10,3,Hypertension,Monitoring,Dr. Meera Rao,Cardiology,234,20233.0,Recovered
+P00850,61,55-74,Female,2023-12-08,2024-01-12,35,Uti,Hydration,Dr. Rohit Iyer,Urology,264,100580.0,Recovered
+P00851,39,35-54,Male,2024-05-28,2024-05-31,3,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,322,18588.0,Recovered
+P00852,27,18-34,Male,2024-12-22,2025-01-22,31,Stroke,Rehabilitation,Dr. Rohit Iyer,Neurology,302,153963.0,Recovered
+P00853,89,75+,Male,2023-05-16,2023-05-25,9,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,163,44780.0,Recovered
+P00854,16,0-17,Male,2024-09-02,2024-09-07,5,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,248,16420.0,Recovered
+P00855,65,55-74,Male,2024-04-01,2024-04-07,6,Heart Failure,Diuretics,Dr. Kumar Das,Cardiology,311,32826.0,Recovered
+P00856,38,35-54,Female,2023-02-16,2023-02-19,3,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,307,38394.0,Recovered
+P00857,49,35-54,Female,2023-04-09,2023-04-16,7,Heart Failure,Diuretics,Dr. Amit Sharma,Cardiology,276,39431.0,Recovered
+P00858,93,75+,Female,2024-04-15,2024-04-19,4,Fracture,Casting,Dr. Kumar Das,Orthopedics,279,16130.0,Recovered
+P00859,28,18-34,Male,2024-01-04,2024-01-08,4,Fracture,Casting,Dr. Anita Joshi,Orthopedics,335,16238.0,Recovered
+P00860,82,75+,Male,2024-09-23,2024-09-27,4,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,276,23740.0,Transferred
+P00861,65,55-74,Female,2023-09-02,2023-09-08,6,Stroke,Rehabilitation,Dr. Sanjay Desai,Neurology,258,32036.0,Recovered
+P00862,10,0-17,Female,2023-12-21,2023-12-24,3,Heart Failure,Monitoring,Dr. Riya Patel,Cardiology,329,19264.0,Recovered
+P00863,26,18-34,Male,2024-04-19,2024-04-24,5,Heart Failure,Diuretics,Unknown,Cardiology,239,28532.0,Recovered
+P00864,29,18-34,Female,2024-08-21,2024-08-22,1,Stroke,Thrombolysis,Unknown,Neurology,239,10012.0,Transferred
+P00865,35,35-54,Female,2023-08-08,2023-08-12,4,Hypertension,Bp Control,Dr. Rohit Iyer,Cardiology,302,23527.0,Recovered
+P00866,43,35-54,Male,2024-06-08,2024-06-12,4,Pneumonia,Antibiotics,Dr. Riya Patel,Pulmonology,141,15815.0,Recovered
+P00867,32,18-34,Male,2024-07-19,2024-07-24,5,Pneumonia,Oxygen Therapy,Dr. Sanjay Desai,Pulmonology,277,16587.0,Recovered
+P00868,59,55-74,Female,2024-02-12,2024-02-13,1,Hypertension,Bp Control,Dr. Vikram Singh,Cardiology,207,9471.0,Recovered
+P00869,57,55-74,Female,2024-08-28,2024-09-02,5,Heart Failure,Diuretics,Dr. Rohit Iyer,Cardiology,164,29074.0,Recovered
+P00870,77,75+,Female,2024-05-22,2024-05-26,4,Sepsis,Icu Support,Dr. Riya Patel,Critical Care,213,48068.0,Recovered
+P00871,32,18-34,Male,2023-02-07,2023-02-11,4,Pneumonia,Physiotherapy,Dr. Meera Rao,Pulmonology,171,14613.0,Recovered
+P00872,42,35-54,Female,2024-06-09,2024-06-10,1,Stroke,Rehabilitation,Dr. Amit Sharma,Neurology,202,9956.0,Recovered
+P00873,14,0-17,Male,2024-09-29,2024-10-02,3,Pneumonia,Physiotherapy,Dr. Anita Joshi,Pulmonology,242,12186.0,Recovered
+P00874,97,75+,Female,2023-06-18,2023-06-23,5,Diabetes Complication,Insulin Adjustment,Dr. Amit Sharma,Endocrinology,178,12822.0,Recovered
+P00875,85,75+,Male,2023-02-09,2023-02-13,4,Sepsis,Icu Support,Dr. Anita Joshi,Critical Care,282,48445.0,Recovered
+P00876,78,75+,Female,2024-01-25,2024-01-28,3,Uti,Antibiotics,Dr. Rohit Iyer,Urology,221,11857.0,Recovered
+P00877,3,0-17,Female,2023-05-03,2023-05-07,4,Hypertension,Monitoring,Dr. Priya Khan,Cardiology,63,24025.0,Recovered
+P00878,15,0-17,Female,2023-02-28,2023-03-08,8,Covid-19,Antivirals,Dr. Rohit Iyer,Infectious Diseases,239,22869.0,Recovered
+P00879,28,18-34,Female,2024-10-10,2024-10-24,14,Heart Failure,Diuretics,Dr. Rohit Iyer,Cardiology,225,73472.0,Recovered
+P00880,32,18-34,Male,2024-06-14,2024-06-20,6,Asthma,Steroids,Dr. Riya Patel,Pulmonology,248,20177.0,Recovered
+P00881,18,18-34,Female,2024-06-02,2024-06-04,2,Uti,Hydration,Dr. Vikram Singh,Urology,161,9128.0,Recovered
+P00882,83,75+,Female,2023-01-03,2023-01-07,4,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,198,22274.0,Recovered
+P00883,87,75+,Female,2024-07-20,2024-07-22,2,Asthma,Bronchodilators,Dr. Anita Joshi,Pulmonology,281,8067.0,Recovered
+P00884,96,75+,Female,2023-01-09,2023-01-16,7,Uti,Antibiotics,Dr. Riya Patel,Urology,206,22669.0,Recovered
+P00885,84,75+,Male,2024-07-25,2024-07-29,4,Covid-19,Oxygen Therapy,Dr. Vikram Singh,Infectious Diseases,257,11772.0,Recovered
+P00886,37,35-54,Female,2024-05-10,2024-05-17,7,Diabetes Complication,Monitoring,Dr. Riya Patel,Endocrinology,336,15066.0,Recovered
+P00887,38,35-54,Male,2024-05-17,2024-05-21,4,Hypertension,Bp Control,Dr. Priya Khan,Cardiology,240,23879.0,Recovered
+P00888,8,0-17,Female,2024-12-03,2024-12-09,6,Covid-19,Oxygen Therapy,Dr. Neha Gupta,Infectious Diseases,229,17807.0,Transferred
+P00889,72,55-74,Male,2023-02-21,2023-02-23,2,Hypertension,Monitoring,Dr. Kumar Das,Cardiology,227,14158.0,Recovered
+P00890,50,35-54,Female,2024-11-28,2024-12-03,5,Covid-19,Steroids,Dr. Riya Patel,Infectious Diseases,216,14404.0,Recovered
+P00891,76,75+,Male,2023-02-01,2023-02-08,7,Fracture,Surgery,Dr. Kumar Das,Orthopedics,264,24680.0,Recovered
+P00892,35,35-54,Female,2024-06-13,2024-06-15,2,Stroke,Rehabilitation,Dr. Riya Patel,Neurology,309,14025.0,Recovered
+P00893,63,55-74,Female,2023-11-08,2023-11-12,4,Covid-19,Steroids,Dr. Kumar Das,Infectious Diseases,344,12028.0,Recovered
+P00894,46,35-54,Male,2023-08-09,2023-08-13,4,Sepsis,Broad-Spectrum Antibiotics,Dr. Priya Khan,Critical Care,270,47986.0,Recovered
+P00895,38,35-54,Female,2023-09-06,2023-09-12,6,Appendicitis,Appendectomy,Dr. Rohit Iyer,General Surgery,377,30838.0,Recovered
+P00896,47,35-54,Male,2023-04-28,2023-05-01,3,Asthma,Bronchodilators,Dr. Vikram Singh,Pulmonology,276,11662.0,Recovered
+P00897,38,35-54,Female,2024-03-29,2024-04-03,5,Covid-19,Oxygen Therapy,Dr. Priya Khan,Infectious Diseases,298,14237.0,Recovered
+P00898,65,55-74,Male,2023-10-31,2023-11-06,6,Asthma,Bronchodilators,Dr. Kumar Das,Pulmonology,261,20075.0,Recovered
+P00899,33,18-34,Female,2024-05-02,2024-05-07,5,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,256,12295.0,Recovered
+P00900,81,75+,Female,2023-07-12,2023-07-16,4,Heart Failure,Monitoring,Dr. Vikram Singh,Cardiology,273,24009.0,Recovered
+P00901,15,0-17,Female,2024-02-11,2024-02-15,4,Sepsis,Icu Support,Dr. Riya Patel,Critical Care,222,47788.0,Recovered
+P00902,95,75+,Female,2023-04-14,2023-04-18,4,Covid-19,Oxygen Therapy,Dr. Anita Joshi,Infectious Diseases,318,13246.0,Recovered
+P00903,64,55-74,Female,2024-03-12,2024-03-14,2,Covid-19,Oxygen Therapy,Dr. Meera Rao,Infectious Diseases,197,7623.0,Recovered
+P00904,80,75+,Female,2024-01-12,2024-01-17,5,Asthma,Steroids,Dr. Amit Sharma,Pulmonology,303,16895.0,Recovered
+P00905,19,18-34,Female,2024-03-01,2024-03-05,4,Pneumonia,Physiotherapy,Dr. Kumar Das,Pulmonology,172,14818.0,Recovered
+P00906,73,55-74,Male,2023-11-25,2023-11-28,3,Stroke,Rehabilitation,Dr. Anita Joshi,Neurology,145,18073.0,Recovered
+P00907,21,18-34,Male,2023-03-11,2023-03-15,4,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,272,21569.0,Recovered
+P00908,10,0-17,Female,2024-11-05,2024-11-12,7,Heart Failure,Monitoring,Dr. Kumar Das,Cardiology,253,39963.0,Recovered
+P00909,58,55-74,Male,2024-07-03,2024-07-05,2,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,252,13155.0,Deceased
+P00910,6,0-17,Female,2024-12-25,2024-12-27,2,Asthma,Steroids,Dr. Anita Joshi,Pulmonology,412,14509.0,Recovered
+P00911,79,75+,Female,2024-01-21,2024-01-26,5,Covid-19,Antivirals,Dr. Kumar Das,Infectious Diseases,265,14513.0,Recovered
+P00912,18,18-34,Female,2024-11-04,2024-11-07,3,Heart Failure,Ace Inhibitors,Dr. Sanjay Desai,Cardiology,215,18708.0,Recovered
+P00913,55,55-74,Male,2023-02-27,2023-03-08,9,Diabetes Complication,Monitoring,Dr. Riya Patel,Endocrinology,122,20624.0,Recovered
+P00914,98,75+,Female,2024-06-14,2024-06-18,4,Covid-19,Antivirals,Dr. Amit Sharma,Infectious Diseases,246,12812.0,Recovered
+P00915,73,55-74,Male,2023-03-12,2023-03-18,6,Uti,Hydration,Dr. Riya Patel,Urology,318,19657.0,Recovered
+P00916,74,55-74,Male,2023-07-07,2023-07-10,3,Uti,Antibiotics,Dr. Sanjay Desai,Urology,397,11346.0,Recovered
+P00917,15,0-17,Other,2023-01-30,2023-01-31,1,Covid-19,Antivirals,Dr. Neha Gupta,Infectious Diseases,282,4468.0,Recovered
+P00918,98,75+,Female,2024-03-20,2024-03-21,1,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,276,8964.0,Recovered
+P00919,5,0-17,Male,2023-04-16,2023-04-17,1,Pneumonia,Antibiotics,Dr. Riya Patel,Pulmonology,256,5479.0,Recovered
+P00920,1,0-17,Female,2024-05-21,2024-05-26,5,Sepsis,Broad-Spectrum Antibiotics,Dr. Meera Rao,Critical Care,347,57615.0,Recovered
+P00921,99,75+,Female,2023-08-31,2023-09-06,6,Asthma,Steroids,Dr. Vikram Singh,Pulmonology,231,19991.0,Recovered
+P00922,80,75+,Female,2024-08-30,2024-09-01,2,Pneumonia,Oxygen Therapy,Dr. Neha Gupta,Pulmonology,232,9342.0,Recovered
+P00923,69,55-74,Female,2024-07-26,2024-07-31,5,Diabetes Complication,Insulin Adjustment,Dr. Anita Joshi,Endocrinology,262,11771.0,Recovered
+P00924,6,0-17,Male,2024-01-06,2024-01-10,4,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,230,16233.0,Recovered
+P00925,86,75+,Female,2024-01-22,2024-01-26,4,Heart Failure,Monitoring,Dr. Vikram Singh,Cardiology,254,24568.0,Recovered
+P00926,9,0-17,Male,2023-05-31,2023-06-03,3,Heart Failure,Diuretics,Dr. Kumar Das,Cardiology,181,19108.0,Recovered
+P00927,69,55-74,Female,2024-11-14,2024-11-15,1,Uti,Hydration,Dr. Priya Khan,Urology,300,6124.0,Recovered
+P00928,85,75+,Female,2023-06-21,2023-06-29,8,Heart Failure,Diuretics,Dr. Priya Khan,Cardiology,179,43836.0,Recovered
+P00929,92,75+,Female,2023-07-29,2023-08-01,3,Diabetes Complication,Monitoring,Dr. Neha Gupta,Endocrinology,199,7864.0,Recovered
+P00930,91,75+,Female,2023-09-28,2023-09-29,1,Uti,Hydration,Dr. Vikram Singh,Urology,257,4751.0,Recovered
+P00931,31,18-34,Male,2024-03-03,2024-03-04,1,Appendicitis,Antibiotics,Dr. Anita Joshi,General Surgery,104,9411.0,Recovered
+P00932,29,18-34,Male,2024-02-23,2024-02-29,6,Hypertension,Monitoring,Dr. Meera Rao,Cardiology,275,34068.0,Recovered
+P00933,13,0-17,Male,2024-03-26,2024-03-29,3,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,242,11295.0,Deceased
+P00934,98,75+,Male,2024-08-01,2024-08-02,1,Covid-19,Antivirals,Dr. Meera Rao,Infectious Diseases,84,5509.0,Recovered
+P00935,66,55-74,Male,2023-10-27,2023-11-03,7,Pneumonia,Oxygen Therapy,Dr. Amit Sharma,Pulmonology,229,24071.0,Recovered
+P00936,5,0-17,Male,2023-10-17,2023-10-21,4,Asthma,Steroids,Dr. Amit Sharma,Pulmonology,267,14817.0,Transferred
+P00937,69,55-74,Female,2024-09-16,2024-09-17,1,Stroke,Rehabilitation,Dr. Neha Gupta,Neurology,238,8898.0,Recovered
+P00938,30,18-34,Female,2023-05-29,2023-06-01,3,Hypertension,Bp Control,Dr. Meera Rao,Cardiology,283,18656.0,Recovered
+P00939,67,55-74,Female,2023-06-25,2023-06-27,2,Appendicitis,Appendectomy,Dr. Priya Khan,General Surgery,308,12585.0,Recovered
+P00940,50,35-54,Female,2024-03-17,2024-03-26,9,Appendicitis,Appendectomy,Dr. Vikram Singh,General Surgery,355,45431.0,Transferred
+P00941,47,35-54,Female,2023-03-27,2023-03-31,4,Appendicitis,Antibiotics,Dr. Priya Khan,General Surgery,267,21846.0,Recovered
+P00942,4,0-17,Female,2024-11-17,2024-11-22,5,Asthma,Bronchodilators,Dr. Amit Sharma,Pulmonology,217,17328.0,Recovered
+P00943,53,35-54,Male,2023-12-04,2023-12-07,3,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,203,8926.0,Recovered
+P00944,16,0-17,Male,2024-01-13,2024-01-20,7,Appendicitis,Appendectomy,Dr. Kumar Das,General Surgery,196,36124.0,Recovered
+P00945,66,55-74,Male,2023-09-24,2023-09-26,2,Fracture,Physiotherapy,Dr. Anita Joshi,Orthopedics,144,10396.0,Recovered
+P00946,76,75+,Female,2023-02-12,2023-02-19,7,Heart Failure,Monitoring,Dr. Anita Joshi,Cardiology,133,39507.0,Recovered
+P00947,7,0-17,Male,2024-09-18,2024-09-23,5,Pneumonia,Physiotherapy,Dr. Sanjay Desai,Pulmonology,301,14509.0,Recovered
+P00948,12,0-17,Male,2024-11-14,2024-11-18,4,Fracture,Casting,Dr. Meera Rao,Orthopedics,276,15893.0,Recovered
+P00949,60,55-74,Female,2023-06-03,2023-06-05,2,Covid-19,Oxygen Therapy,Dr. Priya Khan,Infectious Diseases,264,7117.0,Recovered
+P00950,42,35-54,Female,2024-12-17,2024-12-18,1,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,202,8160.0,Recovered
+P00951,77,75+,Male,2024-05-12,2024-05-19,7,Fracture,Casting,Dr. Sanjay Desai,Orthopedics,280,26268.0,Recovered
+P00952,62,55-74,Male,2023-03-22,2023-03-24,2,Diabetes Complication,Monitoring,Dr. Vikram Singh,Endocrinology,190,6191.0,Recovered
+P00953,77,75+,Male,2023-04-22,2023-04-27,5,Stroke,Rehabilitation,Dr. Kumar Das,Neurology,151,27423.0,Recovered
+P00954,21,18-34,Female,2023-03-16,2023-03-20,4,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,290,9228.0,Recovered
+P00955,59,55-74,Male,2024-04-19,2024-04-26,7,Pneumonia,Oxygen Therapy,Dr. Anita Joshi,Pulmonology,268,23475.0,Recovered
+P00956,25,18-34,Male,2023-10-25,2023-10-27,2,Asthma,Bronchodilators,Dr. Neha Gupta,Pulmonology,271,8825.0,Recovered
+P00957,65,55-74,Male,2023-09-30,2023-10-01,1,Fracture,Physiotherapy,Dr. Riya Patel,Orthopedics,169,6163.0,Recovered
+P00958,30,18-34,Other,2024-07-31,2024-08-02,2,Heart Failure,Monitoring,Dr. Meera Rao,Cardiology,327,14251.0,Recovered
+P00959,14,0-17,Female,2023-05-28,2023-06-02,5,Pneumonia,Physiotherapy,Dr. Vikram Singh,Pulmonology,237,18656.0,Recovered
+P00960,40,35-54,Male,2024-03-21,2024-03-25,4,Appendicitis,Antibiotics,Dr. Neha Gupta,General Surgery,357,23265.0,Recovered
+P00961,2,0-17,Female,2024-06-05,2024-06-08,3,Pneumonia,Antibiotics,Dr. Kumar Das,Pulmonology,352,11912.0,Recovered
+P00962,61,55-74,Male,2024-08-18,2024-08-24,6,Fracture,Physiotherapy,Dr. Rohit Iyer,Orthopedics,300,23734.0,Recovered
+P00963,70,55-74,Male,2023-03-20,2023-03-23,3,Sepsis,Broad-Spectrum Antibiotics,Dr. Sanjay Desai,Critical Care,145,37655.0,Recovered
+P00964,94,75+,Male,2023-06-16,2023-06-18,2,Appendicitis,Antibiotics,Dr. Sanjay Desai,General Surgery,188,13834.0,Recovered
+P00965,66,55-74,Male,2023-06-18,2023-06-23,5,Hypertension,Bp Control,Dr. Riya Patel,Cardiology,154,29745.0,Recovered
+P00966,74,55-74,Female,2023-05-12,2023-05-18,6,Pneumonia,Oxygen Therapy,Dr. Neha Gupta,Pulmonology,263,21227.0,Recovered
+P00967,50,35-54,Male,2024-08-12,2024-08-18,6,Uti,Hydration,Dr. Vikram Singh,Urology,248,20127.0,Recovered
+P00968,22,18-34,Male,2023-01-02,2023-01-06,4,Covid-19,Steroids,Dr. Sanjay Desai,Infectious Diseases,345,11830.0,Recovered
+P00969,30,18-34,Male,2024-12-05,2024-12-08,3,Appendicitis,Antibiotics,Dr. Amit Sharma,General Surgery,266,22274.0,Recovered
+P00970,50,35-54,Female,2024-09-11,2024-09-16,5,Stroke,Thrombolysis,Dr. Rohit Iyer,Neurology,118,27489.0,Recovered
+P00971,82,75+,Male,2023-10-09,2023-10-17,8,Stroke,Rehabilitation,Dr. Priya Khan,Neurology,233,43158.0,Recovered
+P00972,57,55-74,Male,2024-06-01,2024-06-03,2,Covid-19,Oxygen Therapy,Dr. Sanjay Desai,Infectious Diseases,264,7005.0,Recovered
+P00973,70,55-74,Female,2023-07-30,2023-08-04,5,Appendicitis,Appendectomy,Dr. Meera Rao,General Surgery,232,26769.0,Recovered
+P00974,94,75+,Female,2023-08-30,2023-09-01,2,Pneumonia,Physiotherapy,Dr. Neha Gupta,Pulmonology,231,9497.0,Recovered
+P00975,71,55-74,Male,2024-08-03,2024-08-07,4,Pneumonia,Oxygen Therapy,Dr. Neha Gupta,Pulmonology,316,14312.0,Recovered
+P00976,33,18-34,Female,2024-04-28,2024-05-01,3,Hypertension,Bp Control,Dr. Anita Joshi,Cardiology,237,19166.0,Recovered
+P00977,88,75+,Male,2023-03-27,2023-03-29,2,Sepsis,Broad-Spectrum Antibiotics,Dr. Anita Joshi,Critical Care,259,27443.0,Recovered
+P00978,35,35-54,Female,2024-03-17,2024-03-18,1,Heart Failure,Ace Inhibitors,Dr. Anita Joshi,Cardiology,121,8902.0,Recovered
+P00979,17,0-17,Male,2024-04-08,2024-04-14,6,Diabetes Complication,Monitoring,Dr. Anita Joshi,Endocrinology,349,13762.0,Recovered
+P00980,73,55-74,Male,2023-04-24,2023-04-27,3,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,264,8443.0,Deceased
+P00981,9,0-17,Male,2023-08-21,2023-08-29,8,Hypertension,Monitoring,Dr. Vikram Singh,Cardiology,225,43727.0,Recovered
+P00982,49,35-54,Male,2023-09-03,2023-09-07,4,Pneumonia,Physiotherapy,Dr. Meera Rao,Pulmonology,143,14509.0,Recovered
+P00983,24,18-34,Male,2023-06-21,2023-06-27,6,Fracture,Casting,Dr. Kumar Das,Orthopedics,223,21682.0,Recovered
+P00984,26,18-34,Male,2024-11-05,2024-11-07,2,Diabetes Complication,Monitoring,Dr. Amit Sharma,Endocrinology,278,6072.0,Transferred
+P00985,22,18-34,Male,2023-10-17,2023-10-21,4,Fracture,Surgery,Dr. Kumar Das,Orthopedics,263,16063.0,Recovered
+P00986,67,55-74,Male,2024-05-20,2024-05-25,5,Covid-19,Steroids,Dr. Neha Gupta,Infectious Diseases,194,15036.0,Recovered
+P00987,84,75+,Female,2023-10-02,2023-10-08,6,Sepsis,Broad-Spectrum Antibiotics,Dr. Riya Patel,Critical Care,255,67497.0,Recovered
+P00988,3,0-17,Female,2024-03-30,2024-04-04,5,Appendicitis,Appendectomy,Dr. Sanjay Desai,General Surgery,265,27110.0,Recovered
+P00989,24,18-34,Female,2023-05-25,2023-06-01,7,Covid-19,Oxygen Therapy,Dr. Priya Khan,Infectious Diseases,227,19156.0,Recovered
+P00990,12,0-17,Female,2023-10-03,2023-10-08,5,Sepsis,Icu Support,Dr. Meera Rao,Critical Care,318,57873.0,Recovered
+P00991,18,18-34,Male,2023-07-14,2023-07-17,3,Diabetes Complication,Monitoring,Dr. Kumar Das,Endocrinology,207,8478.0,Recovered
+P00992,45,35-54,Other,2023-09-17,2023-09-23,6,Covid-19,Oxygen Therapy,Dr. Riya Patel,Infectious Diseases,354,16215.0,Recovered
+P00993,76,75+,Female,2023-08-01,2023-08-04,3,Stroke,Thrombolysis,Dr. Meera Rao,Neurology,231,18730.0,Recovered
+P00994,21,18-34,Male,2023-02-27,2023-03-08,9,Asthma,Bronchodilators,Dr. Sanjay Desai,Pulmonology,135,28654.0,Recovered
+P00995,62,55-74,Male,2023-03-25,2023-03-29,4,Appendicitis,Appendectomy,Dr. Anita Joshi,General Surgery,224,23170.0,Recovered
+P00996,74,55-74,Female,2024-01-11,2024-01-21,10,Uti,Antibiotics,Dr. Priya Khan,Urology,102,30011.0,Recovered
+P00997,22,18-34,Female,2024-02-03,2024-02-05,2,Appendicitis,Appendectomy,Dr. Rohit Iyer,General Surgery,249,13398.0,Recovered
+P00998,8,0-17,Male,2023-10-16,2023-10-22,6,Diabetes Complication,Monitoring,Dr. Meera Rao,Endocrinology,235,13206.0,Recovered
+P00999,91,75+,Female,2024-04-03,2024-04-06,3,Heart Failure,Monitoring,Dr. Vikram Singh,Cardiology,296,19354.0,Recovered
+P01000,29,18-34,Male,2024-10-22,2024-10-26,4,Diabetes Complication,Insulin Adjustment,Dr. Priya Khan,Endocrinology,157,10200.0,Recovered
